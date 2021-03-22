@@ -53,11 +53,7 @@ MDC：运动方向分类任务，进行方向的类别学习；MDD：两个运�
 
 :maple_leaf: [感觉丧失增强了多感官统合能力](https://www.sciencedirect.com/science/article/pii/S0010945219302333?via%3Dihub#fig1)
 ##### 摘要
- Furthermore, individuals with congenital, but not acquired, anosmia demonstrated indications of greater benefits from bimodal, as compared to unimodal, stimulus presentation when faced with degraded, semantic information. This suggests that the absence of the olfactory sense alters multisensory integration of remaining senses by sharpening the perception of cross-modal temporal violations, independent of sensory loss etiology. In addition, congenital sensory loss may further lead to increased gain from multisensory, compared to unisensory, information. Taken together, multisensory compensatory mechanisms at different levels of perceptual complexity are present in individuals with anosmia.许多研究显示听觉和视觉丧失会改变剩余的感觉模态的能力。然而，尚不清楚感觉丧失是否还会影响多感觉整合，这种能力对于感知我们周围的世界至关重要。我们通过评估37名患有嗅觉失调（完全嗅觉丧失）和37位健康的对照者的视听整合的时间和语义方面，确定嗅觉剥夺对多感官知觉的影响。被试完成①对时间绑定window的同时判断任务，②针对个体而降低的动态视觉、听觉和视听刺激的多感官的客体识别任务。有先天厌食症的人再面对降低的语义信息时，双峰条件比单峰条件的表现更好。这表明了通过强化跨模态的时间
- 嗅觉的缺失改变了多感觉统合
-
-
-参与者执行了同时判断任务来判断时间绑定的窗口，并执行了具有单独退化的动态视觉，听觉和视听刺激的多感官对象识别任务。患有失眠症的人表现出增强的检测多感官时间异步的能力，通过缩小视听时间绑定窗口来表示。此外，与单峰刺激表现相比，先天性但非后天性失眠的人与双峰相比，表现出更多的受益于双峰的迹象，而单峰刺激则面临着语义信息的退化。这表明缺少嗅觉会通过增强对跨模态时间违规的感知而独立于感官丧失的病因，从而改变其余感官的多感官整合。
+许多研究显示听觉和视觉丧失会改变剩余的感觉模态的能力。然而，尚不清楚感觉丧失是否还会影响多感觉整合，这种能力对于感知我们周围的世界至关重要。我们通过评估37名患有嗅觉失调（完全嗅觉丧失）和37位健康的对照者的视听整合的时间和语义方面，确定嗅觉剥夺对多感官知觉的影响。被试完成①对时间绑定window的同时判断任务，②针对个体而降低的动态视觉、听觉和视听刺激的多感官的客体识别任务。有先天厌食症的人再面对降低的语义信息时，双峰条件比单峰条件的表现更好。这表明了独立于缺失的病因，嗅觉缺失者通过强化跨模态的temporal violation改变了多感觉统合。而且，对先天感觉丧失的人，与单个感觉相比，多感觉的信息的获得更多。综上所述，患有嗅觉异常的个体存在不同程度的感知复杂性的多感觉补偿机制。
 ##### 目的
 探讨一种感觉缺失是否会对剩下的感觉统合能力有影响
 ##### 方法
