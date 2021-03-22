@@ -60,7 +60,7 @@ Auditory and visual sensory loss has repeatedly been shown to alter abilities in
 行为实验，选了37个嗅觉完全缺失的人作为实验组，37个正常人作为控制组。比较评估视听整合能力在时间和语义任务中的表现。
 ##### 任务
 图一是同时性判断任务，就是听觉刺激会在视觉刺激的前后及同时呈现，让被试判断二者是否是同时出现的。
-<div align=center><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0010945219302333-gr1_lrg.jpg"  height="727px" width="827px"  ></div>
+<div align=center><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0010945219302333-gr1_lrg.jpg"  height="209px" width="827px"  ></div>
 图二是物体识别任务刺激，同时呈现声音和视觉图片，但是有不同程度的叠加噪音，让被试判断物体是什么。
 <div align=center><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0010945219302333-gr2_lrg.jpg"  height="274px" width="827px"  ></div>
 图三是图二的实验流程。
