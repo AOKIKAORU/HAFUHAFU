@@ -29,9 +29,10 @@ list 1和2：通过任务将记忆的编码与提取两个状态分开。如图�
 「这个研究为记忆系统如何平衡记忆编码新事件和提取旧事件提供一个很有意思的很重要的研究视角。」
 
 
-:maple_leaf: [后顶叶皮层PPC 在 知觉和类别决策 中起决定作用](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7346736/)
+
+:maple_leaf: [灵长类动物顶叶后皮质PPC在调节视觉决策中起因果作用](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7346736/)
 ##### 摘要
-在视觉分辨和类别任务中，PPC与猴子的决策有关。然而，最近的研究质疑，与决策有关的PPC是否在这其中起决定作用？本研究聚焦于PPC在运动决策中的作用（判断移动到哪里），而在非感觉评估中的作用（判断此时要看着什么）。我们使用逆失活reversible inactivation来比较PPC在运动和感觉决策中的作用。失活影响了这两个方面的行为，但对视野中感觉决策（视觉刺激）的损害更大。这说明PPC对决策的因果作用，并且偏向于评估注意任务相关的运动刺激，而不是运动的计划。
+在视觉分辨和类别任务中，PPC与猴子的决策有关。然而，最近的研究质疑，与决策有关的PPC是否在这其中起决定作用？本研究聚焦于PPC在运动决策中的作用（判断移动到哪里），而在非感觉评估中的作用（判断此时要看着什么）。我们使用逆失活reversible inactivation来比较PPC在运动和感觉决策中的作用。失活影响了这两个方面的行为，但对Inactivated visual field(IVF)中感觉决策（视觉刺激）的损害更大。这说明PPC对决策的因果作用，并且偏向于评估注意任务相关的运动刺激，而不是运动的计划。
 ##### 目的
 探讨后顶叶皮层（PPC）在做视觉任务决策时所发挥的重要作用。前人研究主要关注PPC在做运动决定时如将物品移到何处而发挥了重要作用，本项研究则对此产生质疑，以此探讨猴子在做感觉刺激评估如决定看什么东西时PPC所发挥的作用。
 ##### 方法
@@ -39,11 +40,33 @@ list 1和2：通过任务将记忆的编码与提取两个状态分开。如图�
 ##### 任务
 使用一个RT设计，让猴子通过选择绿色和红色的扫视点来报告刺激的类别或运动方向。
 MDC：运动方向分类任务，进行方向的类别学习；MDD：两个运动方向，三个coherence级别。
-有三种刺激的空间分布方式，可以分别研究LIP在 sensory evaluation感觉评估，saccade planning扫视计划和control condition assessing non-spatial aspects of the tasks控制非空间的因素 中的作用。深色阴影区域和虚线圆圈分别表示未激活的视野和运动刺激的位置。
+有三种刺激的空间分布方式，可以分别研究Lateral intraparietal area(LIP，PPC对于这个任务的活动大部分集中在这里)在 sensory evaluation感觉评估，saccade planning扫视计划和control condition assessing non-spatial aspects of the tasks控制非空间的因素 中的作用。深色阴影区域和虚线圆圈分别表示IVF和运动刺激的位置。
 <div align=center><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7346736/bin/nihms-1595923-f0001.jpg" height="451px" width="570px" ></div>
 
 ##### 结果
 灭活剂对两种任务的行为结果都产生了影响，但相比于运动响应，当视觉刺激恰好处于视野中的灭活区时做任务决定时受到的影响更大。
 相比于做运动决定，PCC在评估任务相关的感觉刺激方面发挥更重要的决定。
+
+<div align=center><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7346736/bin/nihms-1595923-f0002.jpg" ></div>
+
+### 2021-03-22
+
+:maple_leaf: [感觉丧失增强了多感官统合能力](https://pubmed.ncbi.nlm.nih.gov/31299497/)
+##### 摘要
+Auditory and visual sensory loss has repeatedly been shown to alter abilities in remaining sensory modalities. It is, however, unclear whether sensory loss also impacts multisensory integration; an ability that is fundamental for the perception of the world around us. We determined effects of olfactory sensory deprivation on multisensory perception by assessing temporal as well as semantic aspects of audio-visual integration in 37 individuals with anosmia (complete olfactory sensory loss) and 37 healthy, matched controls. Participants performed a simultaneity judgement task to determine the temporal binding window, and a multisensory object identification task with individually degraded, dynamic visual, auditory, and audio-visual stimuli. Individuals with anosmia demonstrated an increased ability to detect multisensory temporal asynchronies, represented by a narrowing of the audio-visual temporal binding window. Furthermore, individuals with congenital, but not acquired, anosmia demonstrated indications of greater benefits from bimodal, as compared to unimodal, stimulus presentation when faced with degraded, semantic information. This suggests that the absence of the olfactory sense alters multisensory integration of remaining senses by sharpening the perception of cross-modal temporal violations, independent of sensory loss etiology. In addition, congenital sensory loss may further lead to increased gain from multisensory, compared to unisensory, information. Taken together, multisensory compensatory mechanisms at different levels of perceptual complexity are present in individuals with anosmia.
+##### 目的
+探讨一种感觉缺失是否会对剩下的感觉统合能力有影响
+##### 方法
+行为实验，选了37个嗅觉完全缺失的人作为实验组，37个正常人作为控制组。比较评估视听整合能力在时间和语义任务中的表现。
+##### 任务
+图一是同时性判断任务，就是听觉刺激会在视觉刺激的前后及同时呈现，让被试判断二者是否是同时出现的。
+<div align=center><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0010945219302333-gr1_lrg.jpg"  height="727px" width="827px"  ></div>
+图二是物体识别任务刺激，同时呈现声音和视觉图片，但是有不同程度的叠加噪音，让被试判断物体是什么。
+<div align=center><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0010945219302333-gr2_lrg.jpg"  height="274px" width="827px"  ></div>
+图三是图二的实验流程。
+<div align=center><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0010945219302333-gr3_lrg.jpg"  height="187px" width="827px"  ></div>
+##### 结果
+1. 嗅觉缺失症的个体在探测多种感觉时间不同时性方面的能力更好。嗅觉缺失会通过加强跨模态的时间侵入感知能力来改变剩下的感觉整合能力。先天的感觉缺失或许会进一步增强大脑获取多种感觉信息，而不是获取单一感觉的信息。
+2. 在多种不同感知复杂度中的多种感觉补偿统合机制会在嗅觉缺失症个体中表现出来。
 
 
