@@ -95,16 +95,12 @@ Altogether, these findings bridge macroscopic features of human cytoarchitectoni
 ##### 目的
 直接探讨自闭症谱系障碍和精神分裂症患者异常的视觉加工机制异同
 ##### 方法
-Behavioral measures of coherent motion sensitivity and FER along with electrophysiological and functional magnetic resonance imaging measures of visual pattern and motion processing were obtained. Resting-state functional magnetic resonance imaging was used to assess the relationship between corticocortical and thalamocortical connectivity and atypical visual processing.
-相干运动的敏感性和FER
 <div align=center><img src="https://www.researchgate.net/profile/Chris_Baker6/publication/233775421/figure/download/fig9/AS:340245175390215@1458132179460/Coherent-motion-perception-display-The-coherent-motion-display-contains-a-set-of-moving.png" height="170px" width="425px"  ></div>
-
-多模态脑成像技术与电生理技术，评估个体在面孔情绪识别与运动知觉上的大脑活动模式差异。选了20个高功能的自闭症谱系障碍患者，19个精神分裂症患者，17个健康的正常被试作为对照组
+多模态脑成像技术与电生理技术，评估个体在面孔情绪识别与运动知觉上的大脑活动模式差异。选了20个高功能的自闭症谱系障碍患者，19个精神分裂症患者，17个健康的正常被试作为对照组。
+用行为测量相干运动Coherent Motion的敏感性和FER；用电生理和磁共振成像测量视觉模式和运动知觉机制。用静息态功能磁共振来测量皮层皮质和丘脑皮层连通性和异常视觉处理。
 ##### 任务
 
 ##### 结果
-SZ and ASD participants had intercorrelated deficits in FER and motion sensitivity. In both groups, reduced motion sensitivity was associated with reduced functional magnetic resonance imaging activation in the occipitotemporal cortex and lower delta-band electroencephalogram power. In ASD, FER deficits correlated with hyperactivation of dorsal stream regions and increased evoked theta power. Activation of the pulvinar correlated with abnormal alpha-band modulation in SZ and ASD with under- and overmodulation, respectively, predicting increased clinical symptoms in both groups.
 精神分裂症和自闭症的被试在面孔情绪识别与运动敏感性知觉上都具有皮层内部的连接缺失现象。运动敏感性知觉减少是与枕颞皮层的激活降低及脑电波的delta波降低相关。自闭症患者的面孔情绪识别障碍与背侧视觉通路的过激活和theta波增强有关。精神分裂症患者出现丘脑后结节的激活与异常的alpha波，自闭症患者出现较低的丘脑后结节与过度的alpha波调制，这些生理异常现象都可以用来预测两种症状的加重情况。
 ##### 结论
-SZ and ASD participants showed equivalent deficits in FER and motion sensitivity but markedly different profiles of physiological dysfunction. The specific pattern of deficits observed in each group may help guide development of treatments designed to downregulate versus upregulate visual processing within the respective clinical groups.
-精神分裂症和自闭症被试在面孔情绪识别和运动敏感性知觉方面都表现出同样的缺陷，但二者具有显著不同的生理紊乱特征。
+SZ和ASD被试在FER和运动知觉都有缺陷，但有不同的生理紊乱特征。不同组独特的缺陷模式可能有助于指导如何分别治疗这两类人downregulate和upregulate的视觉处理。 
