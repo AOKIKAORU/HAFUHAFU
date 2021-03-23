@@ -91,13 +91,17 @@ Altogether, these findings bridge macroscopic features of human cytoarchitectoni
 :maple_leaf: [精神分裂症和自闭症患者 在 面部潜在感情认知的损害 和 运动知觉的缺陷 的视觉感觉变化上 的不同模式](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7197738/)
 
 ##### 背景
- Impaired face emotion recognition (FER) and abnormal motion processing are core features in schizophrenia (SZ) and autism spectrum disorder (ASD) that have been linked to atypical activity within the visual cortex. Despite overlaps, only a few studies have directly explored convergent versus divergent neural mechanisms of altered visual processing in ASD and SZ. We employed a multimodal imaging approach to evaluate FER and motion perception in relation to functioning of subcortical and cortical visual regions.
+损害的面部表情认识Face Emotion Recognition(FER)和有缺陷的运动知觉是精神分裂症和自闭症的核心特征，它们被认为与视觉皮层的非正常活动有关。尽管存在重叠，只有少量的关于ASD和SZ的视觉处理变异的神经机制的异同研究。我们采用了一种多模态成像方法来评估与皮层下和皮层视觉区域功能相关的FER和运动感知。
 ##### 目的
 直接探讨自闭症谱系障碍和精神分裂症患者异常的视觉加工机制异同
 ##### 方法
-Subjects were 20 high-functioning adults with ASD, 19 patients with SZ, and 17 control participants. Behavioral measures of coherent motion sensitivity and FER along with electrophysiological and functional magnetic resonance imaging measures of visual pattern and motion processing were obtained. Resting-state functional magnetic resonance imaging was used to assess the relationship between corticocortical and thalamocortical connectivity and atypical visual processing.
+Behavioral measures of coherent motion sensitivity and FER along with electrophysiological and functional magnetic resonance imaging measures of visual pattern and motion processing were obtained. Resting-state functional magnetic resonance imaging was used to assess the relationship between corticocortical and thalamocortical connectivity and atypical visual processing.
+相干运动的敏感性和FER
+<div align=center><img src="https://www.researchgate.net/profile/Chris_Baker6/publication/233775421/figure/download/fig9/AS:340245175390215@1458132179460/Coherent-motion-perception-display-The-coherent-motion-display-contains-a-set-of-moving.png"  ></div>
+
 多模态脑成像技术与电生理技术，评估个体在面孔情绪识别与运动知觉上的大脑活动模式差异。选了20个高功能的自闭症谱系障碍患者，19个精神分裂症患者，17个健康的正常被试作为对照组
 ##### 任务
+
 ##### 结果
 SZ and ASD participants had intercorrelated deficits in FER and motion sensitivity. In both groups, reduced motion sensitivity was associated with reduced functional magnetic resonance imaging activation in the occipitotemporal cortex and lower delta-band electroencephalogram power. In ASD, FER deficits correlated with hyperactivation of dorsal stream regions and increased evoked theta power. Activation of the pulvinar correlated with abnormal alpha-band modulation in SZ and ASD with under- and overmodulation, respectively, predicting increased clinical symptoms in both groups.
 精神分裂症和自闭症的被试在面孔情绪识别与运动敏感性知觉上都具有皮层内部的连接缺失现象。运动敏感性知觉减少是与枕颞皮层的激活降低及脑电波的delta波降低相关。自闭症患者的面孔情绪识别障碍与背侧视觉通路的过激活和theta波增强有关。精神分裂症患者出现丘脑后结节的激活与异常的alpha波，自闭症患者出现较低的丘脑后结节与过度的alpha波调制，这些生理异常现象都可以用来预测两种症状的加重情况。
