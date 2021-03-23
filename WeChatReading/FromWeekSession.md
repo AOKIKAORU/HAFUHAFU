@@ -15,7 +15,7 @@ EEG记录头皮电位变化，MVPA解码
 让被试先识记list1里面的物体，然后识记list2里面的物体，两个list中物体类别是一样的，只是在list2中刺激出现之前有文字cue，如果出现old就是提示被试去回想刚识记的物体，如果是new，就预示被试要对接下来的新刺激进行编码。8个run 之后，再让被试进行识别，判断一下图片中的哪个物体是先前呈现过的旧物体。
 
 list 1和2：通过任务将记忆的编码与提取两个状态分开。如图显示，list和instruction（回忆还是编码）存在交互作用。
-<div align=center><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6634416/bin/pbio.3000362.g001.jpg" height="210px" width="490px" ></div>
+<div align=center><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6765409/bin/nihms-1535017-f0001.jpg" height="210px" width="490px" ></div>
 
 ##### 结果
 1. 编码与提取状态的平衡机制的神经活动是分布式的
