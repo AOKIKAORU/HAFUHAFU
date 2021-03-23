@@ -103,7 +103,8 @@ Altogether, these findings bridge macroscopic features of human cytoarchitectoni
 
 ###### 行为实验
 相干运动检测：相干运动阈值使用随机点运动图确定
-![image](https://user-images.githubusercontent.com/80901934/112142184-3830ff80-8c11-11eb-8bf4-11e141340955.png)
+
+<div align=center><img src="https://user-images.githubusercontent.com/80901934/112142184-3830ff80-8c11-11eb-8bf4-11e141340955.png" height="340px" width="170px"  ></div>
 
 
 ##### 结果
