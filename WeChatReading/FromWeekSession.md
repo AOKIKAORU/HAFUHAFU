@@ -97,7 +97,7 @@ Altogether, these findings bridge macroscopic features of human cytoarchitectoni
 ##### 方法
 Behavioral measures of coherent motion sensitivity and FER along with electrophysiological and functional magnetic resonance imaging measures of visual pattern and motion processing were obtained. Resting-state functional magnetic resonance imaging was used to assess the relationship between corticocortical and thalamocortical connectivity and atypical visual processing.
 相干运动的敏感性和FER
-<div align=center><img src="https://www.researchgate.net/profile/Chris_Baker6/publication/233775421/figure/download/fig9/AS:340245175390215@1458132179460/Coherent-motion-perception-display-The-coherent-motion-display-contains-a-set-of-moving.png"  ></div>
+<div align=center><img src="https://www.researchgate.net/profile/Chris_Baker6/publication/233775421/figure/download/fig9/AS:340245175390215@1458132179460/Coherent-motion-perception-display-The-coherent-motion-display-contains-a-set-of-moving.png" height="170px" width="425px"  ></div>
 
 多模态脑成像技术与电生理技术，评估个体在面孔情绪识别与运动知觉上的大脑活动模式差异。选了20个高功能的自闭症谱系障碍患者，19个精神分裂症患者，17个健康的正常被试作为对照组
 ##### 任务
