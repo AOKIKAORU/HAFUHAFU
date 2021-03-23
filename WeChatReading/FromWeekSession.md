@@ -47,8 +47,6 @@ MDC：运动方向分类任务，进行方向的类别学习；MDD：两个运�
 灭活剂对两种任务的行为结果都产生了影响，但相比于运动响应，当视觉刺激恰好处于视野中的灭活区时做任务决定时受到的影响更大。
 相比于做运动决定，PCC在评估任务相关的感觉刺激方面发挥更重要的决定。
 
-<div align=center><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7346736/bin/nihms-1595923-f0002.jpg" ></div>
-
 ### 2021-03-22
 
 :maple_leaf: [感觉丧失增强了多感官统合能力](https://www.sciencedirect.com/science/article/pii/S0010945219302333?via%3Dihub#fig1)
