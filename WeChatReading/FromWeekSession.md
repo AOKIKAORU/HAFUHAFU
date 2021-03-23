@@ -102,10 +102,13 @@ Altogether, these findings bridge macroscopic features of human cytoarchitectoni
 ##### 任务
 
 ###### 行为实验
-相干运动检测：相干运动阈值使用随机点运动图确定
-
+相干运动检测：相干运动阈值使用随机点运动图确定（图1A）
+面部表情认识：Penn Emotion Recognition Task (ER-40)
 <div align=center><img src="https://user-images.githubusercontent.com/80901934/112142184-3830ff80-8c11-11eb-8bf4-11e141340955.png" height="510px" width="255px"  ></div>
-
+###### 电生理
+“JH-FLKR”范式
+每个trial：出现刺激（400毫秒），向右漂移（200毫秒），以10Hz（3000毫秒）反相反转，产生稳态视觉诱发电位（ssVEP）。
+中央十字偶尔变暗，被试需要按键反应。（图1B）
 
 ##### 结果
 精神分裂症和自闭症的被试在面孔情绪识别与运动敏感性知觉上都具有皮层内部的连接缺失现象。运动敏感性知觉减少是与枕颞皮层的激活降低及脑电波的delta波降低相关。自闭症患者的面孔情绪识别障碍与背侧视觉通路的过激活和theta波增强有关。精神分裂症患者出现丘脑后结节的激活与异常的alpha波，自闭症患者出现较低的丘脑后结节与过度的alpha波调制，这些生理异常现象都可以用来预测两种症状的加重情况。
