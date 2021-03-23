@@ -98,7 +98,9 @@ Altogether, these findings bridge macroscopic features of human cytoarchitectoni
 <div align=center><img src="https://www.researchgate.net/profile/Chris_Baker6/publication/233775421/figure/download/fig9/AS:340245175390215@1458132179460/Coherent-motion-perception-display-The-coherent-motion-display-contains-a-set-of-moving.png" height="170px" width="425px"  ></div>
 多模态脑成像技术与电生理技术，评估个体在面孔情绪识别与运动知觉上的大脑活动模式差异。选了20个高功能的自闭症谱系障碍患者，19个精神分裂症患者，17个健康的正常被试作为对照组。
 用行为测量相干运动Coherent Motion的敏感性和FER；用电生理和磁共振成像测量视觉模式和运动知觉机制。用静息态功能磁共振来测量皮层皮质和丘脑皮层连通性和异常视觉处理。
+
 ##### 任务
+
 ###### 行为实验
 相干运动检测：相干运动阈值使用随机点运动图确定
 ![Uploading image.png…]()
