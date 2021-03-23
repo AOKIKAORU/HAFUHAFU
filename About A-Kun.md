@@ -1,5 +1,5 @@
 ### HAFUHAFU日志
-我的憨批日常
+[我的憨批日常](https://github.com/AOKIKAORU/HAFUHAFU/blob/main/README.md)
 ### 道路长长
 三年的目标
 ### 日常阅读
