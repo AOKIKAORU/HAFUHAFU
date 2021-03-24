@@ -8,10 +8,16 @@
 >6. 注意相关过程具有时间动态，注意网络中各个节点的功能贡献不断动态调整，从而和自然环境中的行为振荡相匹配。
 
 ### 摘要
-Spatial attention is comprised of neural mechanisms that boost sensory processing at a behaviorally relevant location while filtering out competing information. The present review examines functional specialization in the network of brain regions that directs such preferential processing. This attention network includes both cortical (e.g., frontal and parietal cortices) and subcortical (e.g., the superior colliculus and the pulvinar nucleus of the thalamus) structures. Here, we piece together existing evidence that these various nodes of the attention network have dissociable functional roles by synthesizing results from electrophysiology and neuroimaging studies. We describe functional specialization across several dimensions (e.g., at different processing stages and within different behavioral contexts), while focusing on spatial attention as a dynamic process that unfolds over time. Functional contributions from each node of the attention network can change on a moment-to-moment timescale, providing the necessary cognitive flexibility for sampling from highly dynamic environments.
+空间注意由促进行为相关位置的感觉加工，且过滤竞争信息的神经机制构成。本综述探究脑网络中对这种感觉处理有偏好的功能特异性的区域。这种注意网络包括皮层（如额顶叶）和皮层下区域（上丘和枕核）。电生理和成像研究让我们认为，注意通过振荡对各个节点功能分离。各个维度（如不同的加工阶段和行为情境）上存在功能特异性，空间注意在这个过程中是动态的。注意网络每个节点功能上的作用会随时间改变，使我们对动态的环境具备认知灵活性。
 
-<div align=center><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7026883/bin/nihms-1553234-f0001.jpg"  height="360px" width="700px" ></div>
 ### 引言
 我们知道，人脑的加工资源是非常有限的，而外界的环境刺激繁多。因此，大脑需要有一个过滤装置来筛选出对当前最有用的信息加以关注和加工，这个机制被统称为“选择性注意”（selective attention），这一机制既是对任务相关信息的增强关注，也是对无关干扰信息的过滤或抑制。
 
 在实验室研究中，两类任务被经常用来作为研究空间注意的实验范式。第一类是线索范式，由于该任务最早由Posner发明，因此也被叫做Posner任务或Posner-like任务。在线索范式中，研究者常使用线索（cue）来引导个体的视觉注意。通过比较cued location (有视觉注意) 和uncued location （没有视觉注意）上的行为和神经反应可以发现视觉注意的作用。已有研究表明，给予视觉注意可以提高行为的正确率和速度，同时视觉注意也会影响知觉、提高分辨能力和对比敏感性等。
+
+图A为Posner任务（可细分为Exogenous cue和Endogenous cue，两者分别侧重自下而上的引导和自上而下的引导）。
+
+第二种常见的实验范式是Treisman的视觉搜索范式（图B），即从一系列视觉刺激中找到目标刺激。Treisman著名的的特征整合理论提出，自下而上的刺激物理属性和自上而下的行为目标都会驱动视觉注意。在视觉搜索任务中，当刺激物具有明显独特的特征时（如黑色"X"中找橙色“X”），搜索可以自动化、快速的完成，不依赖于刺激的数目（这种Pop-out的搜索是由自下而上的特征控制的，如salience）。反之，当目标和干扰物共享某些特征时（如要找的"X"和干扰物"O"都是橙色），视觉搜索需要受意识控制地逐个搜索完成，完成时间与刺激数目正相关（受自上而下加工控制）。
+
+
+<div align=center><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7026883/bin/nihms-1553234-f0001.jpg"  height="360px" width="700px" ></div>
