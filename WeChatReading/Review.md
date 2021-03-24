@@ -10,7 +10,7 @@
 ### 摘要
 Spatial attention is comprised of neural mechanisms that boost sensory processing at a behaviorally relevant location while filtering out competing information. The present review examines functional specialization in the network of brain regions that directs such preferential processing. This attention network includes both cortical (e.g., frontal and parietal cortices) and subcortical (e.g., the superior colliculus and the pulvinar nucleus of the thalamus) structures. Here, we piece together existing evidence that these various nodes of the attention network have dissociable functional roles by synthesizing results from electrophysiology and neuroimaging studies. We describe functional specialization across several dimensions (e.g., at different processing stages and within different behavioral contexts), while focusing on spatial attention as a dynamic process that unfolds over time. Functional contributions from each node of the attention network can change on a moment-to-moment timescale, providing the necessary cognitive flexibility for sampling from highly dynamic environments.
 
-<div align=center><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7026883/bin/nihms-1553234-f0001.jpg"  height="360px" width="400px" ></div>
+<div align=center><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7026883/bin/nihms-1553234-f0001.jpg"  height="360px" width="600px" ></div>
 ### 引言
 我们知道，人脑的加工资源是非常有限的，而外界的环境刺激繁多。因此，大脑需要有一个过滤装置来筛选出对当前最有用的信息加以关注和加工，这个机制被统称为“选择性注意”（selective attention），这一机制既是对任务相关信息的增强关注，也是对无关干扰信息的过滤或抑制。
 
