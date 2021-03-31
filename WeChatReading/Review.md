@@ -39,3 +39,8 @@
 
 
 >图A为猴子额叶眼动区frontal eye fields (FEF), 顶内沟lateral intraparietal area(LIP)和中鼻窦mediodorsal pulvinar(mdPul)的Population peristimulus time histograms (PSTHs)。其中，LIP与 [眼球运动](https://en.wikipedia.org/wiki/Lateral_intraparietal_cortex) 有关，mdPul之前被认为在空间注意中 [协调额顶网络](https://www.nature.com/articles/s41467-018-08151-4)。
+
+
+在这里，我们将讨论各个节点的功能是如何动态变化的，而这种动态甚至发生在任务需求不变的情况。最近的证据表明，空间注意的特征在于功能的瞬时变化，这些变化给注意相关的采样过程提供了灵活性。
+
+
