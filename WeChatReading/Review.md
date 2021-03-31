@@ -45,7 +45,9 @@
 >图C：颅内脑电的结果，高阶脑区活动的潜伏期早于视觉皮层，说明空间注意过程中的区域间同步是由高阶皮质引导或启动的
 >
 >（IPS即顶内沟，IPS0, intraparietal sulcus, area 0; IPS1-2, intraparietal sulcus, areas 1 and 2;IPS3, intraparietal sulcus, area 3; 
+>
 >LO/VO, lateral occipital背侧枕叶and ventral occipital腹侧枕叶;TO, cytoarchitectonic area细胞结构区 in anterior temporal cortex前颞叶; 
+>
 >V1c1, visual area 1, early component; V1c2, visual area 1, late component; V2, visual area 2; V3, visual area 3; V3A, visual area 3A; V3B, visual area 3B.）
 
 
