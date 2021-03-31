@@ -39,8 +39,11 @@
 
 
 >图A为猴子额叶眼动区frontal eye fields (FEF), 顶内沟lateral intraparietal area(LIP)和中鼻窦mediodorsal pulvinar(mdPul)的Population peristimulus time histograms (PSTHs)。其中，LIP与 [眼球运动](https://en.wikipedia.org/wiki/Lateral_intraparietal_cortex) 有关，mdPul之前被认为在空间注意中 [协调额顶网络](https://www.nature.com/articles/s41467-018-08151-4)。
+>
 >图B：刺激猴子的FEF会导致视觉皮层(V4)中的活动注意力的增加。红色是刺激FEF的条件，黑色是没有刺激的。
+>
 >图C：颅内脑电的结果，高阶脑区活动的潜伏期早于视觉皮层，说明空间注意过程中的区域间同步是由高阶皮质引导或启动的
+>
 >（IPS即顶内沟，IPS0, intraparietal sulcus, area 0; IPS1-2, intraparietal sulcus, areas 1 and 2;IPS3, intraparietal sulcus, area 3; 
 >LO/VO, lateral occipital背侧枕叶and ventral occipital腹侧枕叶;TO, cytoarchitectonic area细胞结构区 in anterior temporal cortex前颞叶; 
 >V1c1, visual area 1, early component; V1c2, visual area 1, late component; V2, visual area 2; V3, visual area 3; V3A, visual area 3A; V3B, visual area 3B.）
