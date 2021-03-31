@@ -15,12 +15,23 @@
 
 空间注意常被类比为聚光灯。自然情境中，空间注意常伴随眼球的运动，我们注意看到的东西。然而隐喻Metaphorical的“聚光灯”（空间注意）也可以不需要眼球的运动，此时眼睛仅是注视着某个位置。实验室的设计中，空间注意总是内部的covert，这有助于将注意Attention-related的感觉加工和运动有关Motor-related的加工（如扫视）分离开来。
 
+#### 我们如何设计实验来研究空间注意？
+
 在实验室研究中，两类任务被经常用来作为研究空间注意的实验范式。第一类是线索范式，由于该任务最早由Posner发明，因此也被叫做Posner任务或Posner-like任务。在线索范式中，研究者常使用线索（cue）来引导个体的视觉注意。通过比较cued location (有视觉注意) 和uncued location （没有视觉注意）上的行为和神经反应可以发现视觉注意的作用。已有研究表明，给予视觉注意可以提高行为的正确率和速度，同时视觉注意也会影响知觉、提高分辨能力和对比敏感性等。
 
 图A为Posner任务（可细分为Exogenous cue和Endogenous cue，两者分别侧重自下而上的引导和自上而下的引导）。
 
 第二种常见的实验范式是Treisman的视觉搜索范式（图B），即从一系列视觉刺激中找到目标刺激。Treisman著名的的特征整合理论提出，自下而上的刺激物理属性和自上而下的行为目标都会驱动视觉注意。在视觉搜索任务中，当刺激物具有明显独特的特征时（如黑色"X"中找橙色“X”），搜索可以自动化、快速的完成，不依赖于刺激的数目（这种Pop-out的搜索是由自下而上的特征控制的，如salience）。反之，当目标和干扰物共享某些特征时（如要找的"X"和干扰物"O"都是橙色），视觉搜索需要受意识控制地逐个搜索完成，完成时间与刺激数目正相关（受自上而下加工控制）。
 
-无论是Posner任务还是视觉搜索任务，他们都涉及到大规模神经网络的活动。注意网络包括了视觉皮层、顶叶和额叶，也包括上丘、丘脑枕等皮层下结构（图C）。由于空间注意这一心理过程可以被分解为多种认知操作（如从当前参与的位置脱离、转移到一个新的位置，以及在那个新的位置参与等），每一种操作都可能有不同的神经基础，这是注意网络分布广泛的可能原因之一。
+
+#### 注意网络中的功能专门化/功能分离*
+>注：Functional Specialization，即different areas in the brain are specialized for different functions
+
+无论是Posner任务还是视觉搜索任务，他们都涉及到大规模神经网络的活动。注意网络包括了视觉皮层、顶叶和额叶，也包括上丘、丘脑枕等皮层下结构（图C）。注意网络的每一个节点都有其功能和局部计算。由于空间注意这一心理过程可以被分解为多种认知操作（如从当前参与的位置脱离、转移到一个新的位置，以及在那个新的位置参与等），每一种操作都可能有不同的神经基础，这是注意网络分布广泛的可能原因之一。
 
 <div align=center><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7026883/bin/nihms-1553234-f0001.jpg"  height="360px" width="700px" ></div>
+
+人类脑成像和脑损伤的研究是初步探索了大脑关于选择性注意相关脑区的功能分离，而之后在非人灵长类中做的电生理研究首次关注到了大脑注意网络单个节点的微观结构（如特定细胞的功能贡献）。例如下图展现了猴子在使用视觉注意时（在cue-target delay中），其注意网络多个节点所放电活动(spiking)的增加。最近，电生理研究也已经开始描述脑区间相互作用的神经特征。这些研究探讨了注意网络节点在不同功能和行为环境下如何动态交互过滤感官信息。
+
+Neuroimaging and lesion studies in humans were among the first analyses to establish functional specialization among the brain regions that contribute to spatial attention (Corbetta & Shulman 2002, Corbetta et al. 2008, Posner & Petersen 1990). In comparison, electrophysiological studies in nonhuman primates—and to a lesser extent in humans—initially focused on the microstructure and mechanistic substrates within individual nodes of the attention network (e.g., functional contributions from specific cell types). These electrophysiological studies established how the allocation of spatial attention alters neural signals by, for example, changing spike rates and receptive field properties (Reynolds & Heeger 2009). Figure 2a illustrates increased spiking activity during the deployment of spatial attention (i.e., during a cue-target delay) across multiple nodes of the attention network. More recently, electrophysiological studies have begun to characterize the neural signatures of between-region interactions. These studies have investigated how nodes of the attention network dynamically interact to filter sensory information within different functional and behavioral contexts (Buschman & Kastner 2015).
+
