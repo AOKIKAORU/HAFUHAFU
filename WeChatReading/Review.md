@@ -37,4 +37,7 @@
 
 <div align=center><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7026883/bin/nihms-1553234-f0002.jpg" ></div>
 >图A为猴子额叶眼动区frontal eye fields (FEF), 顶内沟lateral intraparietal area(LIP)和中鼻窦mediodorsal pulvinar(mdPul)的Population peristimulus time histograms (PSTHs)
->LIP与 [眼球运动](https://en.wikipedia.org/wiki/Lateral_intraparietal_cortex#) 有关，mdPul之前被认为在空间注意中[协调额顶网络](https://www.nature.com/articles/s41467-018-08151-4)
+>LIP与 
+>[眼球运动](https://en.wikipedia.org/wiki/Lateral_intraparietal_cortex#) 
+>有关，mdPul之前被认为在空间注意中
+>[协调额顶网络](https://www.nature.com/articles/s41467-018-08151-4)
