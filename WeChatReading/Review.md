@@ -31,6 +31,10 @@
 
 <div align=center><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7026883/bin/nihms-1553234-f0001.jpg"  height="360px" width="700px" ></div>
 
-人类脑成像和脑损伤的研究是初步探索了大脑关于选择性注意相关脑区的功能分离，而之后在非人灵长类中做的电生理研究首次关注到了大脑注意网络单个节点的微观结构（如特定细胞的功能贡献）。这些电生理研究了空间注意如何通过改变发放率和感受野特性来影响神经元的信号。例如下图展现了猴子在使用视觉注意时（在cue-target delay中），其注意网络多个节点所放电活动(spiking)的增加。最近，电生理研究也已经开始描述脑区间相互作用的神经特征。这些研究探讨了注意网络节点在不同功能和行为环境下如何动态交互过滤感官信息。
+
+人类脑成像和脑损伤的研究是初步探索了大脑关于选择性注意相关脑区的功能分离，而之后在非人灵长类中做的电生理研究首次关注到了大脑注意网络单个节点的微观结构（如特定细胞的功能贡献）。这些电生理研究了空间注意如何通过改变发放率和感受野特性来影响神经元的信号。例如下图A展现了猴子在使用视觉注意时（在cue-target delay中），其注意网络多个节点所放电活动(spiking)的增加。最近，电生理研究也已经开始描述脑区间相互作用的神经特征。这些研究探讨了注意网络节点在不同功能和行为环境下如何动态交互过滤感官信息。
+
 
 <div align=center><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7026883/bin/nihms-1553234-f0002.jpg" ></div>
+>图A为猴子额叶眼动区frontal eye fields (FEF), 顶内沟lateral intraparietal area(LIP)和中鼻窦mediodorsal pulvinar(mdPul)的Population peristimulus time histograms (PSTHs)
+>LIP与[眼球运动](https://en.wikipedia.org/wiki/Lateral_intraparietal_cortex#)有关，mdPul之前被认为在空间注意中[协调额顶网络](https://www.nature.com/articles/s41467-018-08151-4)
