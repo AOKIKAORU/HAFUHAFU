@@ -87,8 +87,22 @@
 
 （1）背侧额顶网络负责目标导向注意，包括两半球的a.顶内沟the intraparietal sulcus b.顶上小叶superior parietal lobule c.背侧额叶dorsal frontal cortex
 
-（2）腹侧额顶网络负责刺激驱动注意（具有偏侧化，包括右半球的颞顶联合区temporal parietal junction（TPJ）和腹侧额叶）。进一步研究表明，腹侧额顶网络不只对特定感觉刺激或行为任务反应，比如在oddball任务中，除了视觉oddball刺激外，也对听觉或触觉oddball刺激有反应。因此腹侧额顶网络是较广泛的对salient或不常见的刺激起反应。
+（2）腹侧额顶网络负责刺激驱动注意（具有偏侧化，包括右半球的颞顶联合区temporal parietal junction（TPJ）和腹侧额叶）。
 
+进一步研究表明，腹侧额顶网络不只对特定感觉刺激或行为任务反应，比如在oddball任务中，除了视觉oddball刺激外，也对听觉或触觉oddball刺激有反应。因此腹侧额顶网络是较广泛的对salient或不常见的刺激起反应。
 
 
 <div align=center><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7026883/bin/nihms-1553234-f0003.jpg" ></div>
+
+#### 电生理的证据
+
+相比于脑成像，电生理研究具有更好的时间分辨率，可以更好的关注在多元情境下神经活动的变化。许多相同的脑区在目标导向和刺激驱动注意中都有涉及，但是他们具体表现出的功能是取决于情境的。这种功能贡献的情境特异性变化是可以观察到的，比如通过空间线索后注意相关效应的相对起始潜伏期onset latency的变化。
+
+Buschman & Miller (2007)同时记录了猴子在完成注意相关任务时的额叶（dlPFC和FEF）和外侧顶叶区域（LIP，位于后顶叶皮层）。第一个任务是需要刺激驱动的注意 (pop-out task)，第二个任务是需要目标导向的注意(serial search task)，虽然这两个区域都发出目标位置信号，但顶叶神经元在刺激驱动任务中更早发出目标位置信号，而额叶神经元在目标导向任务中更早发出目标位置信号（如上图C）。这些结果表明，在刺激驱动注意时，顶叶主导额叶；而在目标定向注意时，额叶主导顶叶。
+
+The neuroimaging studies described above focused on detecting whether different brain regions comprise the attention network during different behavioral contexts. 
+Although both regions signaled the target location, parietal neurons signaled the target location earlier during the stimulus-driven task, while frontal neurons signaled the target location earlier during the goal-directed task (Figure 3c) (see also Ibos et al. 2013). These results thus provided evidence that the parietal cortex leads the frontal cortex during stimulus-driven attention, while the frontal cortex leads the parietal cortex during goal-directed attention (but see Katsuki & Constantinidis 2012).
+
+Buschman & Miller (2007) also demonstrated context-specific changes in the interactions (i.e., functional connectivity) between FEF and LIP. In electrophysiological studies, between-region interactions are typically measured as either synchronization between spiking activity in one brain region and local field potentials (LFPs) in another brain region (i.e., spike-LFP coherence), or as synchronization between LFPs across brain regions (i.e., LFP-LFP coherence). LFPs arise from electrical currents associated with synaptic activity (i.e., action potentials and postsynaptic potentials) emerging from the summed activity of neural populations. Prior to measuring between-region synchronization, LFPs are often filtered to isolate neural activity in a specific frequency range. The remaining signal can capture frequency-specific neural oscillations, which are sometimes conceptualized as rhythmic alternations between high- and low-excitability states (Helfrich et al. 2018). The specific frequencies associated with between-region synchronization provide clues, for example, regarding the directionality of functional connectivity in different behavioral contexts (Bastos et al. 2015, Buffalo et al. 2011, Riddle et al. 2019, van Kerkoerle et al. 2014).
+
+Buschman & Miller (2007) specifically demonstrated that synchronization between FEF and LIP was weighted toward the gamma range (reaching statistical significance from 33 to 55 Hz) during stimulus-driven attention and toward the beta range (reaching statistical significance from 22 to 34 Hz) during goal-directed attention (Figure 3b). While the neural mechanisms that produce such synchronization within these different frequency bands have yet to be fully described (Mejias et al. 2016), gamma-band activity has been linked to feedforward connectivity (Bastos et al. 2015, Buffalo et al. 2011, van Kerkoerle et al. 2014), and beta-band activity has been linked to feedback connectivity (Bastos et al. 2015). The results obtained by Buschman & Miller (2007) therefore suggest that stimulus-driven attention is associated with increased feedforward connectivity, while goal-directed attention is associated with increased feedback connectivity.
