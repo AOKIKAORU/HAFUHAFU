@@ -93,6 +93,7 @@
 
 
 <div align=center><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7026883/bin/nihms-1553234-f0003.jpg" ></div>
+>图B：在眼跳前（peri-saccade），刺激驱动注意（pop-out）时主要是gamma频段的coherence更强；在目标导向注意时主要是beta频段的coherence更强。
 
 #### 电生理的证据
 
@@ -102,10 +103,8 @@ Buschman & Miller (2007)同时记录了猴子在完成注意相关任务时的�
 
 此外，Buschman & Miller (2007)还探索了额顶叶（FEF&LIP）之间的交互（功能连接）。电生理研究中，区域间交互是通过当前脑区的和另一个脑区（如spike-LFP coherence）的放电反应spiking activity和局部场电位[local field potentials (LFPs)](http://scholarpedia.org/article/Local_field_potential)的同步化（synchronization）来衡量。也可以是不同脑区的LFPs的同步化（如LFP-LFP coherence）。
 
-结果发现，当刺激驱动注意时，FEF和LIP间的同步化（synchronization）偏重于在gamma频段（33~55 Hz）的耦合（coherence，一种反映功能连接的指标）；而在目标导向注意时，是偏重于beta频段（22~34 Hz）的耦合（如下图）。由于gamma频段活动被认为和前馈连接有关，而beta活动别认为和反馈连接有关，因此这里的结果表明，刺激驱动的注意与前馈连接的增加有关，而目标导向的注意与反馈连接的增加有关。
+在测量区域间同步之前，局部场电位经常用于过滤特定频率范围的信号，剩余的信号可以测量基于频率的神经振荡(高低兴奋状态的节奏变化），这种与区域间同步有关的特定频率提供了关于功能链接的方向性的线索。
 
 
+结果发现，当刺激驱动注意时，FEF和LIP间的同步化（synchronization）偏重于在gamma频段（33~55 Hz）的耦合（coherence，一种反映功能连接的指标）；而在目标导向注意时，是偏重于beta频段（22~34 Hz）的耦合（如上图B）。由于gamma频段活动被认为和前馈连接有关，而beta活动别认为和反馈连接有关，因此这里的结果表明，刺激驱动的注意与前馈连接的增加有关，而目标导向的注意与反馈连接的增加有关。 
 
-LFPs arise from electrical currents associated with synaptic activity (i.e., action potentials and postsynaptic potentials) emerging from the summed activity of neural populations. Prior to measuring between-region synchronization, LFPs are often filtered to isolate neural activity in a specific frequency range. The remaining signal can capture frequency-specific neural oscillations, which are sometimes conceptualized as rhythmic alternations between high- and low-excitability states (Helfrich et al. 2018). The specific frequencies associated with between-region synchronization provide clues, for example, regarding the directionality of functional connectivity in different behavioral contexts (Bastos et al. 2015, Buffalo et al. 2011, Riddle et al. 2019, van Kerkoerle et al. 2014).
-
-Buschman & Miller (2007) specifically demonstrated that synchronization between FEF and LIP was weighted toward the gamma range (reaching statistical significance from 33 to 55 Hz) during stimulus-driven attention and toward the beta range (reaching statistical significance from 22 to 34 Hz) during goal-directed attention (Figure 3b). While the neural mechanisms that produce such synchronization within these different frequency bands have yet to be fully described (Mejias et al. 2016), gamma-band activity has been linked to feedforward connectivity (Bastos et al. 2015, Buffalo et al. 2011, van Kerkoerle et al. 2014), and beta-band activity has been linked to feedback connectivity (Bastos et al. 2015). The results obtained by Buschman & Miller (2007) therefore suggest that stimulus-driven attention is associated with increased feedforward connectivity, while goal-directed attention is associated with increased feedback connectivity.
