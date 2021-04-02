@@ -76,8 +76,19 @@
 
 总之，本节提出的功能专门化概念将功能贡献归因于注意网络的单个节点。注意网络的分离可以根据不同的加工阶段分为低阶节点和高阶节点，这些节点在单个处理阶段起作用。我们将集中于那些研究基于行为背景的不同节点的功能变化。
 
-### 功能分离：基于行为情境
+### 功能分离：基于行为情境 Context-Specific Specialization
 #### 脑成像的证据
 
+选择性注意的机制介导了基于行为相关性的过滤，这依赖于刺激的物理属性和自上而下的行为目标。因此，注意可以是刺激驱动的，也可以是目标导向的。这里所说的“行为情境”(behavioral context)，简而言之就是包括了刺激驱动(stimulus-driven)的情境和目标导向(goal-directed)的情境。
+
+已有研究表明，目标导向和刺激驱动的注意都参与到了双侧顶叶bilateral parietal和背侧前运动区dorsal premotor cortices（含FEF）的激活中，尽管目标导向注意有着相对更强的激活，但两种情境下的激活模式大体是相同的。只有一块脑区，即背外侧前额叶dlPFC，只在目标导向注意中特异性激活。
+
+相比之下，Maurizio Corbetta等人提出了空间注意的两个分离网络（如下图A），
+
+（1）背侧额顶网络负责目标导向注意，包括两半球的a.顶内沟the intraparietal sulcus b.顶上小叶superior parietal lobule c.背侧额叶dorsal frontal cortex
+
+（2）腹侧额顶网络负责刺激驱动注意（具有偏侧化，包括右半球的颞顶联合区temporal parietal junction（TPJ）和腹侧额叶）。进一步研究表明，腹侧额顶网络不只对特定感觉刺激或行为任务反应，比如在oddball任务中，除了视觉oddball刺激外，也对听觉或触觉oddball刺激有反应。因此腹侧额顶网络是较广泛的对salient或不常见的刺激起反应。
 
 
+
+<div align=center><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7026883/bin/nihms-1553234-f0003.jpg" ></div>
