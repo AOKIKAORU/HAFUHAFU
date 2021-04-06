@@ -145,6 +145,12 @@ Moore等人关于隐性空间注意（covert spatial attention）的研究为前
 上图表明，行为振荡和theta频段的神经振荡具有关联性（both 高阶皮层和皮层下节点）。theta频率将注意网络的神经活动区分为两个交替的阶段，即增强阶段（"good" theta phase; 图上绿底）和减弱阶段（"poor" theta phase; 图上黄底）。这些图表明，行为表现是theta振荡相位的函数，这些实线的相位-检测函数（phase-detection functions）很好地拟合了正弦曲线（虚线），这些正弦波幅提供了Theta相位和目标检测概率之间关系强度的估计。作者提出一个可能性：感觉辨别力增强的"good phase"和注意相关的采样有关联，而"poor phase"与注意转移或眼动活动有关。
 
 这第一种注意状态（"good phase"）与LIP区域的gamma活动以及FEF区beta活动的增加有关（如下图A）。前人研究表明，gamma活动的增加与感官处理中注意力的增强有关，beta活动的增强则与运动处理的抑制有关（包括对注意力转移或眼球运动的抑制），因此这种状态下行为表现较好。
+第二种状态(“poor phase”）伴随着alpha活动（9-14 Hz）的增强（如下图A，B），而alpha活动一直被认为是和感觉加工的抑制有关。作者认为，在第二种状态下，感官加工的alpha驱动抑制发生在对潜在注意转移的预期中，这增加了当前注意位置之外的刺激获得关注的可能性。
 
 
 <div align=center><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7026883/bin/nihms-1553234-f0005.jpg" ></div>
+>图A：注意网络中的theta活动(3-8 Hz)将神经活动组织成具有时间动态和行为表现差异的有节奏的交替注意状态，在good phase里伴随着gamma和beta活动的增强，即感觉的增强和注意转移的抑制；在poor phase里伴随着alpha活动的增强，即感觉的抑制。箭头表示了频率特异性活动的方向（即从FEF到LIP）
+>
+>图B："good period"（绿底）时alpha能量减弱、gamma是持续性的；"poor period"（黄底）时alpha能量增强、gamma是脉冲式的。
+
+
