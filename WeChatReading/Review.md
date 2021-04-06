@@ -140,9 +140,9 @@ Moore等人关于隐性空间注意（covert spatial attention）的研究为前
 
 <div align=center><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7026883/bin/nihms-1553234-f0004.jpg"    height="360px" width="468px" ></div>
 
-> theta节律在环境采样中的作用。感觉和运动的采样都和theta节律有关，比如，微眼跳的概率、对于空间线索的击中率都呈现出周期性变化
-
-> 行为振荡和神经振荡的关系
+> 图A和B：theta节律在环境采样中的作用。感觉和运动的采样都和theta节律有关，比如，微眼跳的概率、对于空间线索的击中率都呈现出周期性变化
+>
+> 图C：行为振荡和神经振荡的关系
 
 
 上图表明，行为振荡和theta频段的神经振荡具有关联性（both 高阶皮层和皮层下节点）。theta频率将注意网络的神经活动区分为两个交替的阶段，即增强阶段（"good" theta phase; 图上绿底）和减弱阶段（"poor" theta phase; 图上黄底）。这些图表明，行为表现是theta振荡相位的函数，这些实线的相位-检测函数（phase-detection functions）很好地拟合了正弦曲线（虚线），这些正弦波幅提供了Theta相位和目标检测概率之间关系强度的估计。作者提出一个可能性：感觉辨别力增强的"good phase"和注意相关的采样有关联，而"poor phase"与注意转移或眼动活动有关。
