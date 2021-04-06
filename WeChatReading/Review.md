@@ -91,7 +91,6 @@
 
 进一步研究表明，腹侧额顶网络不只对特定感觉刺激或行为任务反应，比如在oddball任务中，除了视觉oddball刺激外，也对听觉或触觉oddball刺激有反应。因此腹侧额顶网络是较广泛的对salient或不常见的刺激起反应。
 
-
 <div align=center><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7026883/bin/nihms-1553234-f0003.jpg" ></div>
 >图B：在眼跳前（peri-saccade），刺激驱动注意（pop-out）时主要是gamma频段的coherence更强；在目标导向注意时主要是beta频段的coherence更强。
 
@@ -104,7 +103,6 @@ Buschman & Miller (2007)同时记录了猴子在完成注意相关任务时的�
 此外，Buschman & Miller (2007)还探索了额顶叶（FEF&LIP）之间的交互（功能连接）。电生理研究中，区域间交互是通过当前脑区的和另一个脑区（如spike-LFP coherence）的放电反应spiking activity和局部场电位[local field potentials (LFPs)](http://scholarpedia.org/article/Local_field_potential)的同步化（synchronization）来衡量。也可以是不同脑区的LFPs的同步化（如LFP-LFP coherence）。
 
 在测量区域间同步之前，局部场电位经常用于过滤特定频率范围的信号，剩余的信号可以测量基于频率的神经振荡(高低兴奋状态的节奏变化），这种与区域间同步有关的特定频率提供了关于功能链接的方向性的线索。
-
 
 结果发现，当刺激驱动注意时，FEF和LIP间的同步化（synchronization）偏重于在gamma频段（33-55 Hz）的耦合（coherence，一种反映功能连接的指标）；而在目标导向注意时，是偏重于beta频段（22-34 Hz）的耦合（如上图B）。由于gamma频段活动被认为和前馈连接有关，而beta活动别认为和反馈连接有关，因此这里的结果表明，刺激驱动的注意与前馈连接的增加有关，而目标导向的注意与反馈连接的增加有关。 
 
@@ -144,8 +142,9 @@ Moore等人关于隐性空间注意（covert spatial attention）的研究为前
 >
 > 图C：行为振荡和神经振荡的关系
 
-
 上图表明，行为振荡和theta频段的神经振荡具有关联性（both 高阶皮层和皮层下节点）。theta频率将注意网络的神经活动区分为两个交替的阶段，即增强阶段（"good" theta phase; 图上绿底）和减弱阶段（"poor" theta phase; 图上黄底）。这些图表明，行为表现是theta振荡相位的函数，这些实线的相位-检测函数（phase-detection functions）很好地拟合了正弦曲线（虚线），这些正弦波幅提供了Theta相位和目标检测概率之间关系强度的估计。作者提出一个可能性：感觉辨别力增强的"good phase"和注意相关的采样有关联，而"poor phase"与注意转移或眼动活动有关。
 
+这第一种注意状态（"good phase"）与LIP区域的gamma活动以及FEF区beta活动的增加有关（如下图A）。前人研究表明，gamma活动的增加与感官处理中注意力的增强有关，beta活动的增强则与运动处理的抑制有关（包括对注意力转移或眼球运动的抑制），因此这种状态下行为表现较好。
 
-这第一种注意状态（"good phase"）与LIP区域的gamma活动以及FEF区beta活动的增加有关（如下图）。前人研究表明，gamma活动的增加与感官处理中注意力的增强有关，beta活动的增强则与运动处理的抑制有关（包括对注意力转移或眼球运动的抑制），因此这种状态下行为表现较好。
+
+<div align=center><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7026883/bin/nihms-1553234-f0005.jpg" ></div>
