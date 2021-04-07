@@ -24,8 +24,8 @@ BU: pop-out,与干扰物数量无关
 
 TD: set-size effect，与干扰物数量有关，分volitional 自愿TD（左下） 和mandatory 强制TD（右下），后者是自发且无处不在的
 
- ![image](https://user-images.githubusercontent.com/80901934/113806168-6cb9c500-9794-11eb-8212-9320670a9904.png)
- 
+ <div align=center><img src="https://user-images.githubusercontent.com/80901934/113806168-6cb9c500-9794-11eb-8212-9320670a9904.png" ></div>
+
 >右下：一个物体旋转的四个角度，前两个是凸的，后两个本来应该感知为凹，但实际还是感知为凸，即为mandatory TD
 
 #### 三种Map
@@ -38,13 +38,23 @@ Task-relevance map：map of behaviorally relevant locations(TD)
 ### 与注意有关的重要结构
 
 #### 腹侧与背侧通路
+
 背Dorsal~WHERE：**V1** to **MT (medial temporal)  and MST(medial superior temporal)  and Parietal**
 
 腹Ventral~WHAT：**V1&2&3&4** to **IT (inferotemporal cortex)**
 
 问题：①这两条线是如何发现的 ②IT为什么有这个特征:视觉层级中的**最后一个特征选择区域**
 
-#### 
+#### 受注意影响的区域
+
+##### 上丘SC
+
+1. 是中脑层级结构，接受视网膜的信息和来自V1的反馈
+
+2. 对于明显的BU视觉信息，表层SC反应；对于引导的TD视觉信息，深层反应。
+
+3. SC 与LIP lateral intraparietal，FEF frontal eye field，和视觉皮层存在直接或间接的信息传导
+
 The first structure subject to strong attention effects is the SC. The SC is a layered midbrain structure
 that receives direct input from the retina, as well as
 feedback inputs from area V1. Salient visual events are
