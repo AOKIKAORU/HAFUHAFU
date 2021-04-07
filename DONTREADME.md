@@ -1,4 +1,4 @@
-# MAOFUFU的日志
+# NYANFUFU的日志
 
 > 这里是可爱的猫猫
 > 
