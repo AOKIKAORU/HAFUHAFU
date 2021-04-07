@@ -10,7 +10,7 @@ Baluch & Itti, 2011 Trends Neurosci.
 
 >(ii)  TD的注意通路，尤其是通过microstimulation微刺激和脑损伤进行的研究
 
->(iii)	TD的调节机制 involving subcortical structures皮层下结构 and reward奖励 systems; 
+>(iii) 涉及subcortical structures皮层下结构和奖励系统 的TD的调节机制  
 
 >(iv)	plausible substrates and embodiments of top-down signals; 
 
