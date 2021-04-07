@@ -29,16 +29,19 @@ TD: set-size effect，与干扰物数量有关，分volitional 自愿TD（左下
 >右下：一个物体旋转的四个角度，前两个是凸的，后两个本来应该感知为凹，但实际还是感知为凸，即为mandatory TD
 
 #### 三种Map
-Priority map：external stimuli + intrinsic expectations, knowledge and current behavioral goals
-            =BU + TD
+Priority map：external stimuli + intrinsic expectations, knowledge and current behavioral goals **=BU+TD**
+            
 Saliency map: map of stimulus conspicuity显著性(BU)
+
 Task-relevance map：map of behaviorally relevant locations(TD)
 
 ### 与注意有关的重要结构
 
 #### 腹侧与背侧通路
 背Dorsal~WHERE：**V1** to **MT (medial temporal)  and MST(medial superior temporal)  and Parietal**
+
 腹Ventral~WHAT：**V1&2&3&4** to **IT (inferotemporal cortex)**
+
 问题：①这两条线是如何发现的 ②IT为什么有这个特征:视觉层级中的**最后一个特征选择区域**
 
 #### 
