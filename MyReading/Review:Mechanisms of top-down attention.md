@@ -21,12 +21,39 @@ Baluch & Itti, 2011 Trends Neurosci.
 
 #### TD与BU的分类
 BU: pop-out,与干扰物数量无关
+
 TD: set-size effect，与干扰物数量有关，分volitional 自愿TD（左下） 和mandatory 强制TD（右下），后者是自发且无处不在的
+
  ![image](https://user-images.githubusercontent.com/80901934/113806168-6cb9c500-9794-11eb-8212-9320670a9904.png)
-右下：一个物体旋转的四个角度，前两个是凸的，后两个本来应该感知为凹，但实际还是感知为凸，即为mandatory TD
+ 
+>右下：一个物体旋转的四个角度，前两个是凸的，后两个本来应该感知为凹，但实际还是感知为凸，即为mandatory TD
 
 #### 三种Map
 Priority map：external stimuli + intrinsic expectations, knowledge and current behavioral goals
             =BU + TD
-Saliency map: map of stimulus conspicuity显著性
-Task-relevance map：map of behaviorally relevant locations  
+Saliency map: map of stimulus conspicuity显著性(BU)
+Task-relevance map：map of behaviorally relevant locations(TD)
+
+### 与注意有关的重要结构
+
+#### 腹侧与背侧通路
+背Dorsal~WHERE：**V1** to **MT (medial temporal)  and MST(medial superior temporal)  and Parietal**
+腹Ventral~WHAT：**V1&2&3&4** to **IT (inferotemporal cortex)**
+问题：①这两条线是如何发现的 ②IT为什么有这个特征:视觉层级中的**最后一个特征选择区域**
+
+#### 
+The first structure subject to strong attention effects is the SC. The SC is a layered midbrain structure
+that receives direct input from the retina, as well as
+feedback inputs from area V1. Salient visual events are
+represented in the superficial layers of the SC [13,14] and
+can further combine, in the deeper layers, with TD infor-
+mation to give rise to a priority map that guides attention
+[14]. This attention map is probably shared or jointly
+computed with the lateral intraparietal (LIP) region of
+the cortex [15], the frontal eye fields (FEF) [16] and visual
+cortices, through direct afferent connections from the cor-
+tex to the SC, as well as indirect efferent connections from
+the SC to the cortex via the pulvinar [17]. These connec-
+tions are important for communicating attention-related
+signals to higher cortical areas while bypassing the canon-
+ical ventral pathway.
