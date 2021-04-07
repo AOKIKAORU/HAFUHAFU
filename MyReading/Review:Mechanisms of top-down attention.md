@@ -53,15 +53,9 @@ Task-relevance map：map of behaviorally relevant locations(TD)
 
 2. 对于明显的BU视觉信息，表层SC反应；对于引导的TD视觉信息，深层反应。
 
-3. SC 与LIP lateral intraparietal，FEF frontal eye field，和视觉皮层存在直接或间接的信息传导
+3. 通过直接的信息传导，SC 与LIP lateral intraparietal，FEF frontal eye field，和视觉皮层存在共享或联合Map计算；通过间接的信息传导，SC 与 枕极
 
-The first structure subject to strong attention effects is the SC. The SC is a layered midbrain structure
-that receives direct input from the retina, as well as
-feedback inputs from area V1. Salient visual events are
-represented in the superficial layers of the SC [13,14] and
-can further combine, in the deeper layers, with TD infor-
-mation to give rise to a priority map that guides attention
-[14]. This attention map is probably shared or jointly
+This attention map is probably shared or jointly
 computed with the lateral intraparietal (LIP) region of
 the cortex [15], the frontal eye fields (FEF) [16] and visual
 cortices, through direct afferent connections from the cor-
