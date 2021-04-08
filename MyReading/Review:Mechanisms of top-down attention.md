@@ -1,4 +1,4 @@
-[Mechanisms of top-down attention](https://pubmed.ncbi.nlm.nih.gov/21439656/)
+[**Mechanisms of top-down attention**](https://pubmed.ncbi.nlm.nih.gov/21439656/)
 
 Baluch & Itti, 2011 Trends Neurosci.
 
@@ -47,20 +47,43 @@ Task-relevance map：map of behaviorally relevant locations(TD)
 
 #### 受注意影响的区域
 
-##### 上丘SC
+##### 💮上丘SC
 
 1. 是中脑层级结构，接受视网膜的信息和来自V1的反馈
 
 2. 对于明显的BU视觉信息，表层SC反应；对于引导的TD视觉信息，深层反应。
 
-3. 通过直接的信息传导，SC 与LIP lateral intraparietal，FEF frontal eye field，和视觉皮层存在共享或联合Map计算；通过间接的信息传导，SC 与 枕极
+3. 通过直接的信息传导，SC 与LIP lateral intraparietal，FEF frontal eye field，和视觉皮层存在共享或联合Map计算；通过间接的信息传导，SC 通过 枕极 与皮层 间接链接。（这种连接方式，有助于将注意信号绕过腹侧传给高级皮层）
 
-This attention map is probably shared or jointly
-computed with the lateral intraparietal (LIP) region of
-the cortex [15], the frontal eye fields (FEF) [16] and visual
-cortices, through direct afferent connections from the cor-
-tex to the SC, as well as indirect efferent connections from
-the SC to the cortex via the pulvinar [17]. These connec-
-tions are important for communicating attention-related
-signals to higher cortical areas while bypassing the canon-
-ical ventral pathway.
+##### 丘脑核团thalamic nuclei（高于SC）
+
+1.处理多种感官信息，受注意调制
+
+2.在视觉上，LGN对丘脑核团的反应最快，注意也调节LGN。这种调节对 注意和不注意的刺激 都有。因此，视觉信息在进入皮层前就已经被注意影响了。
+
+#### V1,2,3,4 和 IT 和 MT&MST
+
+1.V1：主要的第一个特征选择区域，受注意影响较小
+
+2.V2，3，4，IT：更大的感受野，对特征更敏感，特征比位置还重要
+
+3.MT&MST：运动敏感，但也受特征和空间注意影响（对感觉信号的组合调制，使得信号从低级传到高级（如LIP））
+
+#### 💮LIP
+
+1.与注意，奖赏和眼动有关，同时受TD(任务相关，注意中心和眼动计划）和BU(stimulus salience)影响。
+
+2.和SC一起，都受到TD和BU影响，可能生成空间Priority map
+
+
+Therefore, the LIP is another candidate struc-ture (beyond the SC described above) where BU and TDinfluencescancombinetogiverisetoaspatialprioritymap
+[15]. The many facets of observed responses in the LIP can
+be attributed to the fact that both BU and a diverse set of
+TD influences can give rise to behavioral priority, and thus
+modulate LIP responses, which suggests that the LIP
+encodes priority in a manner largely agnostic to the factors
+that caused the priority [15]. Through direct feedback
+connections [27] or connections via the pulvinar to visual
+areas (see below), the LIP can communicate the fused
+signals to other brain areas for biasing or further atten-
+tional processing.
