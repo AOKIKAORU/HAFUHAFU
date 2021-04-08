@@ -75,15 +75,31 @@ Task-relevance map：map of behaviorally relevant locations(TD)
 
 2.和SC一起，都受到TD和BU影响，可能生成空间Priority map
 
+#### FEF
 
-Therefore, the LIP is another candidate struc-ture (beyond the SC described above) where BU and TDinfluencescancombinetogiverisetoaspatialprioritymap
-[15]. The many facets of observed responses in the LIP can
-be attributed to the fact that both BU and a diverse set of
-TD influences can give rise to behavioral priority, and thus
-modulate LIP responses, which suggests that the LIP
-encodes priority in a manner largely agnostic to the factors
-that caused the priority [15]. Through direct feedback
-connections [27] or connections via the pulvinar to visual
-areas (see below), the LIP can communicate the fused
-signals to other brain areas for biasing or further atten-
-tional processing.
+1.表示显著刺激，比如odd-ball
+
+2.也被认为是表现priority map的脑区
+
+3.对猴子的实验发现，odd-ball出现100ms后FEF有变化，这说明FEF在循环中处理BU显著性信息，而不是最开始的前馈扫描。
+
+> Lamme, V.A. and Roelfsema, P.R. (2000) The distinct modes of visionoffered by feedforward and recurrent processing.(前馈和循环处理提供了独特的视觉模式) Trends Neurosci.:
+> 
+> 对反应潜伏期的分析说明，图像在视觉系统呈现时，神经元活动迅速转移到大量视觉区域。但是，皮质神经元的活动并不仅仅由这种前馈扫描来确定。区域内的水平连接以及提供反馈的较高区域会导致tuning的动态变化。前馈feedforward和循环recurrent加工之间的差异可能是理解注意和前注意pre-attentive视觉以及有意识和无意识视觉之间区别的关键。快速的前馈扫描将视觉区中零散的特征区组合，但可能是无意识视觉。在物体的特征被attentively group之前进行循环处理，刺激才能进入意识。因此，循环处理很重要。
+
+4.FEF与运动神经元的中层和上丘的深层连接，这与注意下的眼动有关。
+
+5.FEF与TD也有关，它投射TD信号到注意网络的其他脑区上
+
+
+
+Effects of attention have also been observed in prefron-
+tal cortex (PFC). The PFC is thought to be involved in
+short-term memory processes, and recent studies suggest
+that the PFC also exhibits strong attentional selection
+related signals [30,31]. Owing to its involvement in
+short-term memory and its position high in the visual
+hierarchy, it is also the primary candidate for generating
+TD signals and sending them to sensory cortex for spatial
+or feature-based attentional biasing.
+Therefore, the LGN, the striate an
