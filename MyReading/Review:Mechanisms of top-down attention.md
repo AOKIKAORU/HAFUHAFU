@@ -46,8 +46,9 @@ Task-relevance map：map of behaviorally relevant locations(TD)
 问题：①这两条线是如何发现的 ②IT为什么有这个特征:视觉层级中的**最后一个特征选择区域**
 
 #### 受注意影响的区域
+>the LGN,the striate纹状体,extrastriate cortex纹状外皮质(areasV1, V4, IT and MT), the SC, pulvinar, LIP, FEF and PFC
 
-##### 💮上丘SC
+##### 上丘SC💮
 
 1. 是中脑层级结构，接受视网膜的信息和来自V1的反馈
 
@@ -61,7 +62,7 @@ Task-relevance map：map of behaviorally relevant locations(TD)
 
 2.在视觉上，LGN对丘脑核团的反应最快，注意也调节LGN。这种调节对 注意和不注意的刺激 都有。因此，视觉信息在进入皮层前就已经被注意影响了。
 
-#### V1,2,3,4 和 IT 和 MT&MST
+##### V1,2,3,4 和 IT 和 MT&MST
 
 1.V1：主要的第一个特征选择区域，受注意影响较小
 
@@ -69,13 +70,13 @@ Task-relevance map：map of behaviorally relevant locations(TD)
 
 3.MT&MST：运动敏感，但也受特征和空间注意影响（对感觉信号的组合调制，使得信号从低级传到高级（如LIP））
 
-#### 💮LIP
+##### 顶内沟外侧壁the lateral intraparietal（LIP）💮
 
 1.与注意，奖赏和眼动有关，同时受TD(任务相关，注意中心和眼动计划）和BU(stimulus salience)影响。
 
 2.和SC一起，都受到TD和BU影响，可能生成空间Priority map
 
-#### FEF
+##### 额叶眼动区the frontal eye field（FEF）
 
 1.表示显著刺激，比如odd-ball
 
@@ -91,15 +92,17 @@ Task-relevance map：map of behaviorally relevant locations(TD)
 
 5.FEF与TD也有关，它投射TD信号到注意网络的其他脑区上
 
+##### 前额叶皮层prefrontal cortex(PFC)
+
+1.与短时记忆有关，受注意调控，在视觉层级中处于高层
+
+2.TD信号的主要产生者，将TD信号发送给感觉皮层
+
+>注意信号：SC和LGN 👉 V1 👉 IT（位置和特征信息）
+>注意的效用： heightened gain, sharpened tuning ，其他
+>8：
+>37：
+>38：
 
 
-Effects of attention have also been observed in prefron-
-tal cortex (PFC). The PFC is thought to be involved in
-short-term memory processes, and recent studies suggest
-that the PFC also exhibits strong attentional selection
-related signals [30,31]. Owing to its involvement in
-short-term memory and its position high in the visual
-hierarchy, it is also the primary candidate for generating
-TD signals and sending them to sensory cortex for spatial
-or feature-based attentional biasing.
-Therefore, the LGN, the striate an
+<div align=center><img src="https://user-images.githubusercontent.com/80901934/114027755-4b4afd00-98aa-11eb-8230-a962c6658bc7.png" ></div>
