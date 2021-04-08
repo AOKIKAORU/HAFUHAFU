@@ -99,8 +99,15 @@ Task-relevance map：map of behaviorally relevant locations(TD)
 2.TD信号的主要产生者，将TD信号发送给感觉皮层
 
 >注意信号：SC和LGN 👉 V1 👉 IT（位置和特征信息）
+>
 >注意的效用： heightened gain, sharpened tuning ，其他
->8：
+>
+>Noudoost, B. et al. (2010) Top-down control of visual attention. Curr.Opin. Neurobiol.
+>Evidence from these studies suggests that the correlates of spatial attention exhibited by neurons within the visual system originate from a distributed network of structures involved in the programming of saccadic eye movements. We summarize this evidence and discuss its relationship to the neural mechanisms of spatial working memory.
+>TD注意促进对被选择的刺激的感知，这在整个视觉系统的许多阶段的神经活动中都有体现。最近对TD注意的研究已经详细阐述了其在视觉皮层中作用的特征，并开始确定其因果基础。研究表明，神经元表现出来的空间注意和视觉系统的关联来自于分布式的网络，这个网络参与眼跳。
+>神经生物学研究在描述自上而下的视觉注意力如何改变视觉系统内的信号以及开始识别其因果关系方面都取得了重大进展。 尽管如此，我们对注意力神经回路的理解仍然很初级。 迄今为止的证据还远远不能使人们识别出特定的神经元，突触操作或局部和分布式神经计算，这些计算对于说明注意力的行为影响是必要的和充分的。 同样，关于注意力与其他基本认知功能（例如工作记忆）之间关系的神经生理学解释也正在等待未来的工作。
+Neurophysiological studies have made significant progress both in describing how top-down visual attention alters signals within the visual system as well as in beginning to identifying their causal basis. Nevertheless, our understanding of the neural circuitry of attention remains fairly rudimentary. Evidence to date falls far short of allowing one to identify the specific neurons, synaptic operations, or local and distributed neural computations that are both necessary and sufficient to account for the behavioral effects of attention. Likewise, a neurophysiological account of the relationship between attention and other basic cognitive functions, such as working memory, also awaits future work.
+
 >37：
 >38：
 
