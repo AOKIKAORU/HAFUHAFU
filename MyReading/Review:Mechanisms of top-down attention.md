@@ -104,15 +104,17 @@ Task-relevance map：map of behaviorally relevant locations(TD)
 >
 >Noudoost, B. et al. (2010) Top-down control of visual attention. Curr.Opin. Neurobiol.
 >
->Evidence from these studies suggests that the correlates of spatial attention exhibited by neurons within the visual system originate from a distributed network of structures involved in the programming of saccadic eye movements. We summarize this evidence and discuss its relationship to the neural mechanisms of spatial working memory.
+>来自这些研究的证据表明，视觉系统中的神经元表现出的空间注意力的相关性来源于一个分布式的网络结构，这个网络结构参与了跳视性眼球运动的编程。我们总结这一证据，并讨论其与空间工作记忆的神经机制的关系。
 >
 >TD注意促进对被选择的刺激的感知，这在整个视觉系统的许多阶段的神经活动中都有体现。最近对TD注意的研究已经详细阐述了其在视觉皮层中作用的特征，并开始确定其因果基础。研究表明，神经元表现出来的空间注意和视觉系统的关联来自于分布式的网络，这个网络参与眼跳。
 >
->神经生物学研究在描述TD的视觉注意如何改变视觉系统内的信号以及其因果基础方面都取得了重大进展。 尽管如此，我们对注意的神经回路的理解仍然很浅。 迄今为止的证据还远远不能使人们识别出特定的神经元，突触操作或局部和分布式神经计算，这些计算对于说明注意力的行为影响是必要的和充分的。 同样，关于注意力与其他基本认知功能（例如工作记忆）之间关系的神经生理学解释也正在等待未来的工作。
-Neurophysiological studies have made significant progress both in describing how top-down visual attention alters signals within the visual system as well as in beginning to identifying their causal basis. Nevertheless, our understanding of the neural circuitry of attention remains fairly rudimentary. Evidence to date falls far short of allowing one to identify the specific neurons, synaptic operations, or local and distributed neural computations that are both necessary and sufficient to account for the behavioral effects of attention. Likewise, a neurophysiological account of the relationship between attention and other basic cognitive functions, such as working memory, also awaits future work.
-
+>神经生物学研究在描述TD的视觉注意如何改变视觉系统内的信号以及其因果基础方面都取得了重大进展。 尽管如此，我们对注意的神经回路的理解仍然很浅。 现在人们远不能识别出特定的神经元和突触的运作，也不能识别局部和分布式的计算网络，而这些计算网络能够解释注意对行为的影响。
 >37：
 >38：
+>
+
+
+>We review evidence for partially segregated networks of brain areas that carry out different attentional functions. One system, which includes parts of the intraparietal cortex and superior frontal cortex, is involved in preparing and applying goal-directed (top-down) selection for stimuli and responses. This system is also modulated by the detection of stimuli. The other system, which includes the temporoparietal cortex and inferior frontal cortex, and is largely lateralized to the right hemisphere, is not involved in top-down selection. Instead, this system is specialized for the detection of behaviourally relevant stimuli, particularly when they are salient or unexpected. This ventral frontoparietal network works as a 'circuit breaker' for the dorsal system, directing attention to salient events. Both attentional systems interact during normal vision, and both are disrupted in unilateral spatial neglect.
 
 
 <div align=center><img src="https://user-images.githubusercontent.com/80901934/114027755-4b4afd00-98aa-11eb-8230-a962c6658bc7.png" ></div>
