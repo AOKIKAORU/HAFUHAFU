@@ -325,7 +325,7 @@
 - 顺路去买了天书（*Proofs from THE BOOK*，中译本《数学天书中的证明》）
 - 小书店的猫猫可爱wwww
 - （是两只橘色的猫猫，最近生小猫猫了）
-![小书店的猫猫](https://user-images.githubusercontent.com/80901934/114045766-dcc26b00-98ba-11eb-9a73-3ef55ce54aee.jpg)
+<img src="https://user-images.githubusercontent.com/80901934/114045766-dcc26b00-98ba-11eb-9a73-3ef55ce54aee.jpg" alt="小书店的猫猫" style="zoom:50%"/>
 - 发现舍友开始沉迷多娜多娜（
 - 我也想摸鱼呜呜呜呜（目死）
 
