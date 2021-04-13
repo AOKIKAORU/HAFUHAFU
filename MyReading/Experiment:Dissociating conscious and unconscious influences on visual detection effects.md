@@ -42,8 +42,12 @@
 6.也就是说，我们能发现探测效应能够反映不同的意识和无意识过程。
 
 
-## 实验一
+## 实验
 
+### 实验一
 
  <div align=center><img src="https://user-images.githubusercontent.com/80901934/114547950-b2452900-9c91-11eb-8b5d-b934f90bbbd0.png" ></div>
 
+任务：4-alternative forced choice (4AFC) tactile localization task，最后要按四个方向键中的一个来表示脸的可能出现位置，并且做出1-4的信心评估。
+刺激呈现时间：1-up 3-down，即错1次就升，对3次就降。
+时间改变的间距：四个实验的间距由预实验获得。
