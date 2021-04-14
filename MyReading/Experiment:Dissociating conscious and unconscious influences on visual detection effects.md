@@ -95,7 +95,7 @@ Detection task：高于随机水平
 
  <div align=center><img src="https://user-images.githubusercontent.com/80901934/114698793-13cccc80-9d52-11eb-91e3-3238704a0848.png" ></div>
  
- 三种任务：三种任务顺序经过平衡
+ 三种任务：三种任务顺序经过平衡，每一个trial都要做
  
  1.位置判断：是左是右
  
@@ -107,7 +107,14 @@ Detection task：高于随机水平
 
  #### 结果 面部方向被无意识处理
  
+ x[y],x为面孔呈现多久，y是刺激和掩蔽之间的空白时间
  
+ 图D，辨别是0的情况下，其他两种任务都有面孔倒置效应，说明对面孔方向的无意识加工
  
+ 图E：辨别正确的试次有导致效应，而错误的试次甚至有着更强的倒置效应。换句话说，面孔的不可见与面孔方向的辨别无关。（face inversion effect was indeed independent of the ability to discriminate face orientation）
+ 
+ ### 实验4——基于类别的注意需要意识
+
+ <div align=center><img src="https://user-images.githubusercontent.com/80901934/114713346-9ca03400-9d63-11eb-9e6f-8fee452c06d1.png" ></div>
  
  
