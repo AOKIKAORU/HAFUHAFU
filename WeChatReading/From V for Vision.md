@@ -23,7 +23,7 @@
 实验一：
 实验假设：在VWM中激活特定的颜色，将会加强ternus运动识别过程中对该颜色要素的处理，从而更容易将ternus运动知觉为与该颜色所关联的运动方式。
 
-<div align=center><img src="https://user-images.githubusercontent.com/80901934/115237214-e2d40980-a14e-11eb-90d5-4bcb5acd64a6.png"  height="350px" width="650px" ></div>
+<div align=center><img src="https://user-images.githubusercontent.com/80901934/115237214-e2d40980-a14e-11eb-90d5-4bcb5acd64a6.png"  height="280px" width="650px" ></div>
 
 实验的三个变量分别问记忆颜色（GB-Match、EB-Match、third-match、no match），ISI(0，20，40，60，80，160，300ms)和呈现方式（竞争性偏差、无偏差）实验开始时被试会被要求记忆方块的颜色，随后屏幕中会出现一组竞争性偏差ternus运动或一组无偏差的ternus运动，被试需要报告他们将这组ternus运动知觉为整体运动还是元素运动，最后判断屏幕两侧的方块哪个的颜色与记忆任务中的方块颜色相同。
 
