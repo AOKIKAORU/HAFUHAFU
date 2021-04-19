@@ -12,13 +12,14 @@
 
 <div align=center><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Element_motion_in_a_Ternus_display.gif" ></div>
 
-<center>图1</center>
-
 <div align=center><img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Group_motion_in_a_Ternus_display.gif" ></div>
 
-<center>图2</center>
-
 <div align=center><img src="https://media.springernature.com/full/springer-static/image/art%3A10.3758%2Fs13414-018-1589-5/MediaObjects/13414_2018_1589_Fig1_HTML.png?as=webp"  height="350px" width="500px"></div>
+
+实验一：
+实验假设：在VWM中激活特定的颜色，将会加强ternus运动识别过程中对该颜色要素的处理，从而更容易将ternus运动知觉为与该颜色所关联的运动方式。
+
+![Uploading image.png…]()
 
 
 <div align=center><img src="https://user-images.githubusercontent.com/80901934/115233813-efeef980-a14a-11eb-80f8-f583c7221d88.png"  height="350px" width="550px" ></div>
