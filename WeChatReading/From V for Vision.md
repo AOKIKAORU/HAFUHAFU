@@ -1,12 +1,31 @@
 ### [**视觉工作记忆内容对一致性过程的影响**](https://mp.weixin.qq.com/s?__biz=MzIxNjE3OTUxNA==&mid=2247485062&idx=1&sn=4da605041fc12277d214edb91f259db3&chksm=978db0d3a0fa39c509e0b71700ca32ca1852c4ef6944dc8b311e6eb9eb9954652e63d1e07530&scene=126&sessionid=1618832940&key=b29dc7ac64daae53dc2b0b53c8b872a3f0b005bdf43dc39a0d01472b315d02c14726303860a121fafc60cebc0c37eed73dfe7fce6b5d6752cbecf00f7dc0f15e049bb2d742395f4550344a134b41d0853aca47819e335c5bd9dfc01f28cea2bfe37e66bb4c335c7138b68428c7fa1b1d4704f5de9af180ccb10f076f48800d4a&ascene=1&uin=NzE4NTkwNDg1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=A1BfyOMuTafjteMeGl%2F%2Bm7k%3D&pass_ticket=ujf0jNYWvsOuHL4sz%2F0%2BSIu%2BNwv1PHo1QrV2Ov3lRexZ%2FRqVHCrLw5PXiHsMiCvU&wx_header=0)
->原标题：[Visual Working Memory (VWM) Contents Influence the Correspondence Process(https://github.com/AOKIKAORU/HAFUHAFU/files/6336291/Visual.working.memory.content.influences.correspondence.processes.pdf)
+>原标题：[Visual Working Memory (VWM) Contents Influence the Correspondence Process](https://github.com/AOKIKAORU/HAFUHAFU/files/6336291/Visual.working.memory.content.influences.correspondence.processes.pdf)
 
 >
 >Hein, E., Stepper, M. Y., Hollingworth, A., & Moore, C. M.
 >
 >论文期刊：JEP: HPP（2021）
+>
+>摘要：
+>我们的视觉系统在时间上将物体表征为连续对象时，需要建立一致性关系，这样才能将现在的刺激与之前的刺激表征的是同一个物体。
+> Spatiotemporal continuity and surface-feature similarity play
+important roles in these correspondence processes. Because objects are often
+represented across extended periods of time, visual working memory (VWM) content
+should also play a role in object correspondence. We tested this prediction using Ternus
+motion. Displays consisted of three-disk arrays that shifted horizontally by one position
+between frames. Depending on how correspondence is resolved, Ternus displays are
+perceived as group motion, where all three disks appear to move together, or element
+motion, where one disk appears to jump across the others. Reports of which motion is
+perceived provide an index of how correspondence was resolved. Ternus displays were
+adapted such that the color of some disks biased element motion while the color of
+others biased group motion. Maintaining one or the other of the colors in VWM for later
+report systematically biased which type of motion was perceived (Experiments 1 and 2).
+When color was incidental to the VWM task, however, it did not (Experiment 3). These
+results confirm that VWM content contributes to object correspondence.
 
-我们的视觉系统在时间上将物体表征为连续对象时，需要建立一致性关系，这样才能将现在的刺激与之前的刺激表征的是同一个物体。在建立一致性的过程中，时空的连续性、物体表面特征的相似性都到了重要作用。
+
+
+我们的视觉系统在时间上将物体表征为连续对象时，需要建立一致性关系，这样才能将现在的刺激与之前的刺激表征的是同一个物体。在建立一致性的过程中，时空的连续性Spatiotemporal continuity、物体表面特征的相似性surface-feature similarity都到了重要作用。
 
 对一致性建立问题的研究常常采用一些模棱两可的运动作为刺激，本实验采用了[Ternus似动范式](https://en.wikipedia.org/wiki/Ternus_illusion)，它是由三个水平排列的圆形要素构成的，在一段时间后会移动一个单位。Ternus运动可以被知觉为整体移动（三个圆形一起移动，如图2）或元素移动（一个圆形跨过其他圆形移动，如图1），ternus运动如何被知觉反映了一致性的建立方式。ISI（interstimulus interval）是影响ternus知觉方式的重要时空变量，当ISI较短时，人们更倾向于将ternus运动知觉为元素运动，而ISI较长时，更倾向于将其知觉为整体运动。
 
@@ -60,3 +79,13 @@
 #### 总结:
 
 视觉工作记忆的内容（颜色）确实会系统性地影响接下来的对ternus运动模式的知觉，使其产生知觉偏差，从而影响一致性的建立。然而当视觉工作记忆的内容不是被激活的状态而是一种附属的信息时，它就不能再影响人们对ternus运动的知觉偏差。
+
+
+### [**对真实情境的统计学习——无意识情况下提取类别规律**](https://mp.weixin.qq.com/s?__biz=MzIxNjE3OTUxNA==&mid=2247485062&idx=2&sn=0481048e4d119463d72b01f2f7789f7c&chksm=978db0d3a0fa39c58becd4d6ba38eba19ccd31b2f8f348c68e0018a476cb42a8261feecc7e15&scene=126&sessionid=1618832940&key=75abd3a1656f38fa9843751d6353ef40875c2501ad7bf3518d02bf3fc45a86bd9df17b59b082e5c8d0e5e40d975679d5fbdd4dd7862186e89ee348f0f15bf8ae371d8f5ac635b93394024623e855e2e89ec18a96920ff03c900d6c64ac383b5fbf5f038fff518450e4ef0eea8dd4f9154274fcfd69ad96be270b60247851616d&ascene=1&uin=NzE4NTkwNDg1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=A2HkdV8pqUoFqcVnZc1nn3U%3D&pass_ticket=ujf0jNYWvsOuHL4sz%2F0%2BSIu%2BNwv1PHo1QrV2Ov3lRexZ%2FRqVHCrLw5PXiHsMiCvU&wx_header=0）
+
+>原标题：Statistical Learning Using Real-World Scenes: Extracting Categorical Regularities Without Conscious Intent
+>
+>论文作者： Timothy F. Brady and Aude Oliva
+>
+>期刊：Psychological Science(2008)
+
