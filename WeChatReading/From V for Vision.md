@@ -21,4 +21,4 @@
 <div align=center><img src="https://media.springernature.com/full/springer-static/image/art%3A10.3758%2Fs13414-018-1589-5/MediaObjects/13414_2018_1589_Fig1_HTML.png?as=webp"  height="350px" width="500px"></div>
 
 
-<div align=center><img src="https://user-images.githubusercontent.com/80901934/115233813-efeef980-a14a-11eb-80f8-f583c7221d88.png"  height="350px" width="500px" ></div>
+<div align=center><img src="https://user-images.githubusercontent.com/80901934/115233813-efeef980-a14a-11eb-80f8-f583c7221d88.png"  height="350px" width="550px" ></div>
