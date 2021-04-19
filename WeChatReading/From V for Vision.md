@@ -7,16 +7,15 @@
 >论文期刊：JEP: HPP（2021）
 >
 >摘要：
->我们的视觉系统在时间上将物体表征为连续对象时，需要建立一致性关系，这样才能将现在的刺激与之前的刺激表征的是同一个物体。
-> Spatiotemporal continuity and surface-feature similarity play
-important roles in these correspondence processes. Because objects are often
-represented across extended periods of time, visual working memory (VWM) content
-should also play a role in object correspondence. We tested this prediction using Ternus
-motion. Displays consisted of three-disk arrays that shifted horizontally by one position
-between frames. Depending on how correspondence is resolved, Ternus displays are
-perceived as group motion, where all three disks appear to move together, or element
-motion, where one disk appears to jump across the others. Reports of which motion is
-perceived provide an index of how correspondence was resolved. Ternus displays were
+>我们的视觉系统在时间上将物体表征为连续对象时，需要建立一致性关系，这样才能将现在的刺激与之前的刺激表征的是同一个物体。在建立一致性的过程中，时空的连续性Spatiotemporal continuity、物体表面特征的相似性surface-feature similarity都到了重要作用。 因为物体经常跨时间段地出现，视觉工作记忆VWM的内容就对客体一致性起重要作用。我们将使用Ternus似动来验证这个假设。
+>
+>对一致性建立问题的研究常常采用一些模棱两可的运动作为刺激，本实验采用了[Ternus似动范式](https://en.wikipedia.org/wiki/Ternus_illusion)，它是由三个水平排列的圆形要素构成的，在一段时间后会移动一个单位。Ternus运动可以被知觉为整体移动（三个圆形一起移动，如图2）或元素移动（一个圆形跨过其他圆形移动，如图1），ternus运动如何被知觉反映了一致性的建立方式。ISI（interstimulus interval）是影响ternus知觉方式的重要时空变量，当ISI较短时，人们更倾向于将ternus运动知觉为元素运动，而ISI较长时，更倾向于将其知觉为整体运动。因此，对运动的感知类型可以作为一致性类型的指标。
+>
+>在竞争性偏差的ternus运动中，三个圆形的颜色不同，且其中一个颜色（Group Bias-match）与整体运动关联在一起，而另一种颜色（Element Bias-match）与元素运动关联，第三种颜色（third-match）不与任何运动形式关联。图3和4为竞争性偏差范式，其中图4绿色为与元素运动关联的EB-Match，红色为与整体运动关联的GB-Match，黄色为不与任何形式关联的Third-Match。本研究希望探究工作记忆的内容是否会影响对Ternus运动的知觉，带来更多的知觉偏差。
+>
+>实验一
+> 
+Ternus displays were
 adapted such that the color of some disks biased element motion while the color of
 others biased group motion. Maintaining one or the other of the colors in VWM for later
 report systematically biased which type of motion was perceived (Experiments 1 and 2).
@@ -27,7 +26,7 @@ results confirm that VWM content contributes to object correspondence.
 
 我们的视觉系统在时间上将物体表征为连续对象时，需要建立一致性关系，这样才能将现在的刺激与之前的刺激表征的是同一个物体。在建立一致性的过程中，时空的连续性Spatiotemporal continuity、物体表面特征的相似性surface-feature similarity都到了重要作用。
 
-对一致性建立问题的研究常常采用一些模棱两可的运动作为刺激，本实验采用了[Ternus似动范式](https://en.wikipedia.org/wiki/Ternus_illusion)，它是由三个水平排列的圆形要素构成的，在一段时间后会移动一个单位。Ternus运动可以被知觉为整体移动（三个圆形一起移动，如图2）或元素移动（一个圆形跨过其他圆形移动，如图1），ternus运动如何被知觉反映了一致性的建立方式。ISI（interstimulus interval）是影响ternus知觉方式的重要时空变量，当ISI较短时，人们更倾向于将ternus运动知觉为元素运动，而ISI较长时，更倾向于将其知觉为整体运动。
+
 
 在竞争性偏差的ternus运动中，三个圆形的颜色不同，且其中一个颜色（Group Bias-match）与整体运动关联在一起，而另一种颜色（Element Bias-match）与元素运动关联，第三种颜色（third-match）不与任何运动形式关联。图3和4为竞争性偏差范式，其中图4绿色为与元素运动关联的EB-Match，红色为与整体运动关联的GB-Match，黄色为不与任何形式关联的Third-Match。本研究希望探究工作记忆的内容是否会影响对Ternus运动的知觉，带来更多的知觉偏差。
 
