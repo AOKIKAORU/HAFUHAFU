@@ -1,6 +1,8 @@
 ### [**视觉工作记忆内容对一致性过程的影响**](https://mp.weixin.qq.com/s?__biz=MzIxNjE3OTUxNA==&mid=2247485062&idx=1&sn=4da605041fc12277d214edb91f259db3&chksm=978db0d3a0fa39c509e0b71700ca32ca1852c4ef6944dc8b311e6eb9eb9954652e63d1e07530&scene=126&sessionid=1618832940&key=b29dc7ac64daae53dc2b0b53c8b872a3f0b005bdf43dc39a0d01472b315d02c14726303860a121fafc60cebc0c37eed73dfe7fce6b5d6752cbecf00f7dc0f15e049bb2d742395f4550344a134b41d0853aca47819e335c5bd9dfc01f28cea2bfe37e66bb4c335c7138b68428c7fa1b1d4704f5de9af180ccb10f076f48800d4a&ascene=1&uin=NzE4NTkwNDg1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=A1BfyOMuTafjteMeGl%2F%2Bm7k%3D&pass_ticket=ujf0jNYWvsOuHL4sz%2F0%2BSIu%2BNwv1PHo1QrV2Ov3lRexZ%2FRqVHCrLw5PXiHsMiCvU&wx_header=0)
 >原标题：Visual Working Memory (VWM) Contents Influence the Correspondence Process
+>
 >Hein, E., Stepper, M. Y., Hollingworth, A., & Moore, C. M.
+>
 >论文期刊：JEP: HPP（2021）
 
 我们的视觉系统在时间上将物体表征为连续对象时，需要建立一致性关系，这样才能将现在的刺激与之前的刺激表征的是同一个物体。在建立一致性的过程中，时空的连续性、物体表面特征的相似性都到了重要作用。
@@ -25,5 +27,19 @@
 
 实验的三个变量分别问记忆颜色（GB-Match、EB-Match、third-match、no match），ISI(0，20，40，60，80，160，300ms)和呈现方式（竞争性偏差、无偏差）实验开始时被试会被要求记忆方块的颜色，随后屏幕中会出现一组竞争性偏差ternus运动或一组无偏差的ternus运动，被试需要报告他们将这组ternus运动知觉为整体运动还是元素运动，最后判断屏幕两侧的方块哪个的颜色与记忆任务中的方块颜色相同。
 
+<div align=center><img src="https://user-images.githubusercontent.com/80901934/115237804-92a97700-a14f-11eb-9cff-de230e2d86c9.png"  height="350px" width="650px" ></div>
 
-<div align=center><img src="https://user-images.githubusercontent.com/80901934/115237804-92a97700-a14f-11eb-9cff-de230e2d86c9.png"  height="350px" width="600px" ></div>
+实验结果：在竞争性偏差ternus运动范式中，记忆颜色的主效应显著而ISI的主效应不显著，且当记忆的颜色与GB-Match一致时，会产生一个更大的知觉偏差，被试更倾向于将ternus运动知觉为整体运动。
+
+实验二：复杂颜色任务
+实验目的：工作记忆内容对ternus运动知觉的影响是由于注意力分配的策略造成的，还是一个系统性的影响。
+实验过程：在颜色记忆任务中增加了3组与原来颜色相近的模糊刺激，ISI最长为160ms，其余操作与实验一相同。
+实验二的结论与实验一基本相同，只是刺激的颜色与记忆的颜色准确匹配时，所引发的对知觉偏差比不准确匹配更有效。
+ 
+实验三：
+实验目的：视觉工作记忆任务中附带的信息也会影响一致性的建立，还是只有当前被激活的信息才能影响一致性的建立。
+实验设计：在视觉工作记忆任务中，被试被要求记忆方形的大小，并在最后的记忆任务中，判断屏幕两侧的方形，哪一个的尺寸是与记忆中的方形相匹配的。其余流程与实验一相同。
+实验结论：在竞争性偏差ternus运动范式中，ISI的主效应显著而记忆颜色主效应不显著，即当记忆任务改变时，记忆颜色不再能影响被试对ternus运动的知觉方式，使其产生知觉偏差，这可能是由于被试没能对颜色进行准确地编码而造成的。
+ 
+——总结——
+视觉工作记忆的内容（颜色）确实会系统性地影响接下来的对ternus运动模式的知觉，使其产生知觉偏差，从而影响一致性的建立。然而当视觉工作记忆的内容不是被激活的状态而是一种附属的信息时，它就不能再影响人们对ternus运动的知觉偏差。
