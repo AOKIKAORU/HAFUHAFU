@@ -1,5 +1,5 @@
 ### [**视觉工作记忆内容对一致性过程的影响**](https://mp.weixin.qq.com/s?__biz=MzIxNjE3OTUxNA==&mid=2247485062&idx=1&sn=4da605041fc12277d214edb91f259db3&chksm=978db0d3a0fa39c509e0b71700ca32ca1852c4ef6944dc8b311e6eb9eb9954652e63d1e07530&scene=126&sessionid=1618832940&key=b29dc7ac64daae53dc2b0b53c8b872a3f0b005bdf43dc39a0d01472b315d02c14726303860a121fafc60cebc0c37eed73dfe7fce6b5d6752cbecf00f7dc0f15e049bb2d742395f4550344a134b41d0853aca47819e335c5bd9dfc01f28cea2bfe37e66bb4c335c7138b68428c7fa1b1d4704f5de9af180ccb10f076f48800d4a&ascene=1&uin=NzE4NTkwNDg1&devicetype=Windows+10+x64&version=63000039&lang=zh_CN&exportkey=A1BfyOMuTafjteMeGl%2F%2Bm7k%3D&pass_ticket=ujf0jNYWvsOuHL4sz%2F0%2BSIu%2BNwv1PHo1QrV2Ov3lRexZ%2FRqVHCrLw5PXiHsMiCvU&wx_header=0)
->原标题：Visual Working Memory Contents Influence the Correspondence Process
+>原标题：Visual Working Memory (VWM) Contents Influence the Correspondence Process
 >Hein, E., Stepper, M. Y., Hollingworth, A., & Moore, C. M.
 >论文期刊：JEP: HPP（2021）
 
@@ -9,12 +9,16 @@
 
 在竞争性偏差的ternus运动中，三个圆形的颜色不同，且其中一个颜色（Group Bias-match）与整体运动关联在一起，而另一种颜色（Element Bias-match）与元素运动关联，第三种颜色（third-match）不与任何运动形式关联。图一中的c图为竞争性偏差范式，其中黑色为与元素运动关联的EB-Match，白色为与整体运动关联的GB-Match，灰色为不与任何形式关联的Third-Match。本研究希望探究工作记忆的内容是否会影响对Ternus运动的知觉，带来更多的知觉偏差。
 
-图1
 
 <div align=center><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Element_motion_in_a_Ternus_display.gif" ></div>
 
-图2
+<center>图1</center>
 
 <div align=center><img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Group_motion_in_a_Ternus_display.gif" ></div>
+
+<center>图2</center>
+
+<div align=center><img src="https://media.springernature.com/full/springer-static/image/art%3A10.3758%2Fs13414-018-1589-5/MediaObjects/13414_2018_1589_Fig1_HTML.png?as=webp"  height="350px" width="500px"></div>
+
 
 <div align=center><img src="https://user-images.githubusercontent.com/80901934/115233813-efeef980-a14a-11eb-80f8-f583c7221d88.png" ></div>
