@@ -70,9 +70,9 @@ MDC：运动方向分类任务，进行方向的类别学习；MDD：两个运�
 
 :maple_leaf: [人类的视觉皮层是沿着两个相对的遗传层次梯度组织的，它们具有独特的发育和进化起源](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6634416/)
 ##### 摘要
-Altogether, these findings bridge macroscopic features of human cytoarchitectonic areas in visual cortex with microscopic features of cellular organization and genetic expression, which, despite the complexity of this multiscale correspondence, can be described by a sparse subset (approximately 200) of genes. These findings help pinpoint the genes contributing to healthy cortical development and explicate the cortical biology distinguishing humans from other primates, as well as establishing essential groundwork for understanding future work linking genetic mutations with the function and development of the human brain.
 
-人类视觉皮层的组织结构具有惊人的一致性。然而最近的发现表明，相对于人类视觉皮层的折叠，功能性和细胞结构性区域之间存在意想不到的耦合，但将皮层的这些解剖和功能特征联系起来的统一原理仍未知。为了填补这一空白，我们结合了对细胞结构区域的独立和[Ground Truth（真值、真实的有效值或者是标准的答案）](https://zh.wikipedia.org/zh/Ground_truth) 的测量和人类枕颞皮层内的遗传组织表征。使用数据驱动的方法，我们检查了在细胞结构间不同的基因表达是否有助于将枕颞皮层区域化为基于转录组学的层次结构。这种方法揭示了两个相反的基因表达梯度：一个包含一系列表达幅度从后部（如枕叶的hOC1,hOC2,hOC3）到前细胞结构区域（如梭状回FG1-FG4）的上升梯度；另一个是从后部到前部的下降梯度，有着单独的基因。
+人类视觉皮层的组织结构具有惊人的一致性。然而最近的发现表明，相对于人类视觉皮层的折叠，功能性和细胞结构性区域之间存在意想不到的耦合，但将皮层的这些解剖和功能特征联系起来的统一原理仍未知。为了填补这一空白，我们结合了对细胞结构区域的独立和[Ground Truth（真值、真实的有效值或者是标准的答案）](https://zh.wikipedia.org/zh/Ground_truth) 的测量和人类枕颞皮层内的遗传组织表征。使用数据驱动的方法，我们验证了细胞结构区域的不同基因表达是否促进了枕颞皮层的区域化，从而形成了基于转录组学的层级结构。这种方法揭示了两个相反的基因表达梯度：一个包含一系列表达幅度从后部（如枕叶的hOC1,hOC2,hOC3）到前细胞结构区域（如梭状回FG1-FG4）的上升梯度；另一个是从后部到前部的下降梯度，有着单独的基因。
+
 <div align=center><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6634416/bin/pbio.3000362.g001.jpg"  height="232px" width="509px"  ></div>
 
 来自活人大脑的数据显示，两个梯度分别与皮质厚度或髓鞘密切相关，进一步又发现这些遗传梯度沿着人类发展的独特轨迹出现：上升梯度出现在10-12个孕周，而下降梯度出现在19-24个孕周。有趣的是，直到儿童早期（5岁之前），这两个基因表达梯度才达到成年人的平均表达值。在非人类灵长类动物（NHP）中进行的其他分析表明，同源基因不会产生与人类相同的上升和下降表达梯度。我们讨论这些发现和以前提出的基于视觉皮层的 功能和细胞结构特征的层次结构 有关。总而言之，这些发现连接了人类视觉皮层中 细胞结构区域的宏观特征 与 细胞组织和遗传表达的微观特征，尽管这种多尺度对应关系很复杂，但可以用基因的稀疏子集（约200个）来描述。这能让我们发现 有助于皮质健康发育的基因，并阐明使人类与其他灵长类动物区分开的皮质生物学，以及为理解将遗传突变与人脑功能和发育联系起来的未来工作奠定重要基础。
@@ -96,6 +96,7 @@ Altogether, these findings bridge macroscopic features of human cytoarchitectoni
 直接探讨自闭症谱系障碍和精神分裂症患者异常的视觉加工机制异同
 ##### 方法
 <div align=center><img src="https://www.researchgate.net/profile/Chris_Baker6/publication/233775421/figure/download/fig9/AS:340245175390215@1458132179460/Coherent-motion-perception-display-The-coherent-motion-display-contains-a-set-of-moving.png" height="170px" width="425px"  ></div>
+
 多模态脑成像技术与电生理技术，评估个体在面孔情绪识别与运动知觉上的大脑活动模式差异。选了20个高功能的自闭症谱系障碍患者，19个精神分裂症患者，17个健康的正常被试作为对照组。
 用行为测量相干运动Coherent Motion的敏感性和FER；用电生理和磁共振成像测量视觉模式和运动知觉机制。用静息态功能磁共振来测量皮层皮质和丘脑皮层连通性和异常视觉处理。
 
@@ -105,6 +106,7 @@ Altogether, these findings bridge macroscopic features of human cytoarchitectoni
 相干运动检测：相干运动阈值使用随机点运动图确定（图1A）
 面部表情认识：Penn Emotion Recognition Task (ER-40)
 <div align=center><img src="https://user-images.githubusercontent.com/80901934/112142184-3830ff80-8c11-11eb-8bf4-11e141340955.png" height="510px" width="255px"  ></div>
+
 ###### 电生理
 “JH-FLKR”范式
 每个trial：出现刺激（400毫秒），向右漂移（200毫秒），以10Hz（3000毫秒）反相反转，产生稳态视觉诱发电位（ssVEP）。
